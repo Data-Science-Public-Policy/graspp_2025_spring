@@ -10,7 +10,7 @@ url_macro = 'https://github.com/KMueller-Lab/Global-Macro-Database/raw/refs/head
 df_macro = pd.read_stata(url_macro)
 
 # Define URL for OECD data
-url_oecd = "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_PDB@DF_PDB_ULC_Q,1.0/.Q.......?startPeriod=1990-Q4&format=csv"
+url_oecd = "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA_BY_ACTIVITY_COE,1.1/Q..AUT..........?startPeriod=2023-Q4&dimensionAtObservation=AllDimensions&format=csv"
 # Fetch data from the URL
 response = requests.get(url_oecd)
 response.raise_for_status()  # Raise an exception for HTTP errors
@@ -23,13 +23,14 @@ df_oecd = pd.read_csv(data)
 # Filter macroeconomic data for Japan, select columns, and drop missing values
 df_macro_jp = df_macro.query("ISO3 == 'JPN'")[['ISO3', 'year', 'UN_rGDP', 'WDI_rGDP']].dropna()
 # Filter OECD data for Japan and specific measures/units
-df_oecd_jp = df_oecd[['REF_AREA', 'TIME_PERIOD', 'OBS_VALUE', 'MEASURE', 'UNIT_MEASURE']].query("REF_AREA == 'JPN' & MEASURE=='ULCE' & UNIT_MEASURE == 'PA'")
+df_oecd_jp = df_oecd[['REF_AREA', 'TIME_PERIOD', 'OBS_VALUE', 'TRANSACTION', 'UNIT_MEASURE']].query(
+    "REF_AREA == 'JPN' & TRANSACTION == 'D1' & UNIT_MEASURE == 'PA'")
 
 # Rename columns in the Japan macroeconomic DataFrame
 df_macro_jp = df_macro_jp.rename({"ISO3":'country', "year":'date'}, axis=1)
 
 # Rename columns and drop unnecessary columns in the Japan OECD DataFrame
-df_oecd_jp = df_oecd_jp.rename({"REF_AREA":'country', "TIME_PERIOD":'date', 'OBS_VALUE':'ULCE'}, axis=1).drop(["MEASURE", "UNIT_MEASURE"], axis=1)
+df_oecd_jp = df_oecd_jp.rename({"REF_AREA":'country', "TIME_PERIOD":'date', 'OBS_VALUE':'COM'}, axis=1).drop(["TRANSACTION", "UNIT_MEASURE"], axis=1)
 
 ### 3. Datetime Conversion ###
 ## Convert the 'date' column in the OECD DataFrame to datetime objects from quarterly periods and then to date
