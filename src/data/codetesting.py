@@ -81,20 +81,20 @@ df_macro_jp = df_macro_jp.rename({"ISO3": 'country', "year": 'date'}, axis=1)
 df_oecd_jp = df_oecd_jp.rename({"REF_AREA": 'country', "TIME_PERIOD": 'date', 'OBS_VALUE': 'COM'}, axis=1).drop(["TRANSACTION", "UNIT_MEASURE"], axis=1)
 
 # Print debug information before index conversion
-print("数据集形状:")
-print(f"宏观数据: {df_macro_jp.shape}")
-print(f"OECD数据: {df_oecd_jp.shape}")
+print("Dataset shapes:")
+print(f"Macro data: {df_macro_jp.shape}")
+print(f"OECD data: {df_oecd_jp.shape}")
 
-print("\n宏观数据样本:")
+print("\nMacro data sample:")
 print(df_macro_jp.head())
-print("\nOECD数据样本:")
+print("\nOECD data sample:")
 print(df_oecd_jp.head())
 
-### 3. 确保索引类型一致 ###
-# 将宏观数据的date列转换为整数类型
+### 3. Ensure Index Types Match ###
+# Convert date column in macro data to integer type
 df_macro_jp['date'] = df_macro_jp['date'].astype(int)
 
-print("\n类型转换后的宏观数据样本:")
+print("\nMacro data sample after type conversion:")
 print(df_macro_jp.head())
 
 ### 4. Set Index ###
@@ -102,10 +102,10 @@ print(df_macro_jp.head())
 df_macro_jp = df_macro_jp.set_index(['country', 'date'])
 df_oecd_jp = df_oecd_jp.set_index(['country', 'date'])
 
-print("\n设置索引后的数据:")
-print("宏观数据:")
+print("\nData after setting indices:")
+print("Macro data:")
 print(df_macro_jp.head())
-print("\nOECD数据:")
+print("\nOECD data:")
 print(df_oecd_jp.head())
 
 ### 5. Merge DataFrames ###
@@ -119,8 +119,8 @@ df_merge = pd.merge(
 )
 
 # Print merging result
-print("\n合并结果:")
-print(f"合并后数据形状: {df_merge.shape}")
+print("\nMerge results:")
+print(f"Merged data shape: {df_merge.shape}")
 print(df_merge.head())
 
 ### 6. Export Data ###
@@ -134,4 +134,16 @@ os.makedirs("data/raw/", exist_ok=True)
 # Export the raw OECD DataFrame to a CSV file in the 'data/raw/' directory
 df_oecd.to_csv("data/raw/oecd_jp.csv")
 
-print("\n文件已成功保存!")
+print("\nFiles saved successfully!")
+
+### 7. Data Preview and Summary ###
+print("\n" + "="*50)
+print("DETAILED DATA PREVIEW AND SUMMARY")
+print("="*50)
+
+
+# Show merged data with original indices
+print("\nComplete Merged Dataset:")
+df_merge_display = df_merge.reset_index()
+print(df_merge_display)
+
