@@ -62,13 +62,13 @@ print("\nMerge results:")
 print(f"Merged data shape: {df_merge.shape}")
 print(df_merge.head())
 
-os.makedirs("data/intermediate/", exist_ok=True)
+os.makedirs("data/homework1/", exist_ok=True)
 
-df_merge.to_csv("data/intermediate/merged_data_jp.csv")
+df_merge.to_csv("data/homework1/merged_data_jp.csv")
 
-os.makedirs("data/raw/", exist_ok=True)
+os.makedirs("data/homework1/", exist_ok=True)
 
-df_oecd.to_csv("data/raw/oecd_jp.csv")
+df_oecd.to_csv("data/homework1/oecd_jp.csv")
 
 print("\nFiles saved successfully!")
 
