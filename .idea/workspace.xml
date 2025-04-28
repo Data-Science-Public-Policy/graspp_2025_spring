@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2da0373-1cb6-42d4-b325-0e266492d715" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_BairdCory.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_lastfirst.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/graspp_2025_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graspp_2025_spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/Global Militarisation Index.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_HaochengJI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_HaochengJI.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/module_2/week_4/visualization_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/module_2/week_4/visualization_basics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +27,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "HW1__HaochengJI",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW1__HaochengJI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/raw" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +85,11 @@
       <workItem from="1745720573360" duration="10000" />
       <workItem from="1745724330823" duration="2179000" />
       <workItem from="1745728167696" duration="209000" />
-      <workItem from="1745739860987" duration="358000" />
+      <workItem from="1745739860987" duration="679000" />
+      <workItem from="1745756285525" duration="318000" />
+      <workItem from="1745756842028" duration="2653000" />
+      <workItem from="1745813833355" duration="1921000" />
+      <workItem from="1745837977155" duration="573000" />
     </task>
     <servers />
   </component>
