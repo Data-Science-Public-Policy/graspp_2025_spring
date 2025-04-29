@@ -16,9 +16,11 @@ def extract_household_consumption(filepath: str) -> pd.DataFrame:
     # Household consumption is located at row 9 (index 8)
     consumption_row = df.iloc[8]
 
-    # Year information is located at row 6 (index 5)
-    years = df.iloc[5, 1:].tolist()  # Columns starting from column B
-    values = consumption_row[1:].tolist()
+    # Create years from 1994 to 2023
+    years = list(range(1994, 2024))
+
+    # Get household consumption values (skip the first column A)
+    values = consumption_row[1:len(years)+1].tolist()
 
     # Combine into a DataFrame
     result = pd.DataFrame({

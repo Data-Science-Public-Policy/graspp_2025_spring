@@ -3,4 +3,11 @@ numpy
 scikit-learn
 matplotlib
 lxml
+wordcloud
 seaborn
+requests
+ace_tools
+openpyxl
+jupyter
+scipy
+statsmodels
