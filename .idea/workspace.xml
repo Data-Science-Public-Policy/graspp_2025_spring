@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2da0373-1cb6-42d4-b325-0e266492d715" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/graspp_2025_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graspp_2025_spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/Global Militarisation Index.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_HaochengJI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/assignment_individual/HW1/HW1_HaochengJI.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/module_2/week_4/visualization_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/module_2/week_4/visualization_basics.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vhMEhIRTL6ksV5Avv6fFlhShDC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW1__HaochengJI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/raw" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2da0373-1cb6-42d4-b325-0e266492d715" name="Changes" comment="" />
+      <created>1728023267952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728023267952</updated>
+      <workItem from="1728023272676" duration="24000" />
+      <workItem from="1744592743928" duration="3155000" />
+      <workItem from="1744946268015" duration="41000" />
+      <workItem from="1744946451430" duration="284000" />
+      <workItem from="1745196386349" duration="795000" />
+      <workItem from="1745197197117" duration="73000" />
+      <workItem from="1745197282723" duration="4698000" />
+      <workItem from="1745203245265" duration="627000" />
+      <workItem from="1745648624126" duration="5035000" />
+      <workItem from="1745658327629" duration="460000" />
+      <workItem from="1745658804003" duration="1928000" />
+      <workItem from="1745709420960" duration="592000" />
+      <workItem from="1745710028366" duration="122000" />
+      <workItem from="1745710169454" duration="211000" />
+      <workItem from="1745710399122" duration="288000" />
+      <workItem from="1745710691318" duration="124000" />
+      <workItem from="1745715025698" duration="608000" />
+      <workItem from="1745715649716" duration="785000" />
+      <workItem from="1745720573360" duration="10000" />
+      <workItem from="1745724330823" duration="2179000" />
+      <workItem from="1745728167696" duration="209000" />
+      <workItem from="1745739860987" duration="679000" />
+      <workItem from="1745756285525" duration="318000" />
+      <workItem from="1745756842028" duration="2653000" />
+      <workItem from="1745813833355" duration="1921000" />
+      <workItem from="1745837977155" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/notebooks/module_1/week_2/download_api.ipynb</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/notebooks/module_1/week_1/notebook_basics.ipynb</url>
+          <line>129</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
