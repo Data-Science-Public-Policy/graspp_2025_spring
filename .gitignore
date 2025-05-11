@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
-data/intermediate
-data/raw
-data/clean
+# data/intermediate
+# data/raw
+# data/clean
 ../../../
 __pycache__/
 *.py[cod]
