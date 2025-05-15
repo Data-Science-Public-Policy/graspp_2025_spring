@@ -1,5 +1,11 @@
 # graspp_2025_spring
 
+## Individual Assignment 2
+- research question：the relationship between rGDP and compensation of employees
+- data file paths:  graspp_2025_spring/data/homework1/merged_data_jp.csv
+- data sources ：[OECD](https://www.oecd.org/en/data/indicators/labour-compensation-per-hour-worked.html) [marcro](https://github.com/KMueller-Lab/Global-Macro-Database/tree/main/data/final)
+- notebook file paths:graspp_2025_spring/notebooks/assignment_individual/HW1/HW1_RenHaiyin.ipynb
+
 ## Overview
 - Run the code/notebooks in the cloud via Binder
   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Data-Science-Public-Policy/graspp_2025_spring/HEAD)
