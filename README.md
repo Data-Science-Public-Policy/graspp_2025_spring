@@ -1,10 +1,10 @@
 Research Question: What is the relationship between terrorism attacks (number of deaths) and extreme poverty rate? Does one affect one another?  
 
-Data Sources
+Data Sources  
 poverty: https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty  
 terrorism: https://ourworldindata.org/grapher/terrorism-deaths  
 
-Data of "Share of population living in exrteme poverty" and "Terrorism deaths" imported from Our World in Data  
+Data of "Share of population living in exrteme poverty" and "Terrorism deaths"  
 poverty_file = "../../../data/raw/share-of-population-in-extreme-poverty.csv"  
 terrorism_file = "../../../data/raw/terrorism-deaths.csv"  
 
