@@ -9,7 +9,7 @@ poverty_file = "../../../data/raw/share-of-population-in-extreme-poverty.csv"
 terrorism_file = "../../../data/raw/terrorism-deaths.csv"  
 
 Notebook path  
-jupyter_notebook = "../../../data/notebooks/HW1_UetsukiYuji.ipynb"  
+jupyter_notebook = "../../../notebooks/HW1/HW1_UetsukiYuji.ipynb"  
 
 Assignments/Milestones
 - Milestone 1: Data selection and research question
