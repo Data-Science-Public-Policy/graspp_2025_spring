@@ -1,17 +1,17 @@
-# Research Question: What is the relationship between terrorism attacks (number of deaths) and extreme poverty rate? Does one affect one another?
+Research Question: What is the relationship between terrorism attacks (number of deaths) and extreme poverty rate? Does one affect one another?
 
-# Data Sources
-## poverty: https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty
-## terrorism: https://ourworldindata.org/grapher/terrorism-deaths
+Data Sources
+poverty: https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty
+terrorism: https://ourworldindata.org/grapher/terrorism-deaths
 
-# Data of "Share of population living in exrteme poverty" and "Terrorism deaths" imported from Our World in Data
-## poverty_file = "../../../data/raw/share-of-population-in-extreme-poverty.csv"
-## terrorism_file = "../../../data/raw/terrorism-deaths.csv"
+Data of "Share of population living in exrteme poverty" and "Terrorism deaths" imported from Our World in Data
+poverty_file = "../../../data/raw/share-of-population-in-extreme-poverty.csv"
+terrorism_file = "../../../data/raw/terrorism-deaths.csv"
 
-# Notebook path
-## jupyter_notebook = "../../../data/notebooks/HW1_UetsukiYuji.ipynb"
+Notebook path
+jupyter_notebook = "../../../data/notebooks/HW1_UetsukiYuji.ipynb"
 
-## Assignments/Milestones
+Assignments/Milestones
 - Milestone 1: Data selection and research question
   - Grade: 20% of grade
     - Group coding task: Import and manipulate the data and show descriptive statistics in table or graphs.
