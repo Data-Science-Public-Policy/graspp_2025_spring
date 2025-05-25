@@ -10,3 +10,5 @@ dependencies:
   - lxml
   - wordcloud
   - seaborn
+  - plotly
+  - altair

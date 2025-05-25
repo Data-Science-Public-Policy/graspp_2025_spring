@@ -4,3 +4,5 @@ scikit-learn
 matplotlib
 lxml
 seaborn
+plotly
+altair
