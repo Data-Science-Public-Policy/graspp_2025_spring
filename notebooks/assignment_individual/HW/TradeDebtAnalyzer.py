@@ -113,6 +113,16 @@ class TradeDebtAnalyzer:
 
         self.df = self.df[self.df['Year'].between(2010, 2023)]
 
+        # Sort before lagging
+        self.df = self.df.sort_values(['country', 'Year'])
+
+        # Lag GDP and Debt by one year (within each country)
+        self.df['GDP per Capita (Lag1)'] = self.df.groupby('country')['GDP per Capita'].shift(1)
+        self.df['Debt Ratio (% of GDP) (Lag1)'] = self.df.groupby('country')['Debt Ratio (% of GDP)'].shift(1)
+        self.df['Import from China (Lag1)'] = self.df.groupby('country')['Import from China'].shift(1)
+
+
+
     def plot(self):
             df = self.df.copy()
 
@@ -173,12 +183,13 @@ class TradeDebtAnalyzer:
 
 
     def regress(self):
-        df_reg = self.df.dropna(subset=['Import from China', 'GDP per Capita', 'Debt Ratio (% of GDP)'])[
-            ['country', 'Year', 'Import from China', 'GDP per Capita', 'Debt Ratio (% of GDP)']
+        df_reg = self.df.dropna(subset=['Import from China', 'GDP per Capita', 'Debt Ratio (% of GDP)',\
+                                        'GDP per Capita (Lag1)', 'Debt Ratio (% of GDP) (Lag1)', 'Import from China (Lag1)'])[
+            ['country', 'Year', 'Import from China', 'GDP per Capita', 'Debt Ratio (% of GDP)','GDP per Capita (Lag1)', 'Debt Ratio (% of GDP) (Lag1)', 'Import from China (Lag1)']
         ].copy()
         df_reg = df_reg.set_index(['country', 'Year'])
         model = PanelOLS.from_formula(
-            '`Debt Ratio (% of GDP)` ~ `GDP per Capita` + `Import from China` + EntityEffects + TimeEffects',
+            '`Debt Ratio (% of GDP)` ~ `GDP per Capita` + `Import from China (Lag1)` + EntityEffects + TimeEffects',
             data=df_reg
         )
         return model.fit(cov_type='clustered', cluster_entity=True)
