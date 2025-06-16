@@ -987,10 +987,12 @@ dependencies = [
     { name = "plotly" },
     { name = "pypdf2" },
     { name = "python-dotenv" },
+    { name = "rank-bm25" },
     { name = "requests" },
     { name = "scikit-learn" },
     { name = "seaborn" },
     { name = "selenium" },
+    { name = "smolagents" },
     { name = "spacy" },
     { name = "statsmodels" },
     { name = "streamlit" },
@@ -1021,10 +1023,12 @@ requires-dist = [
     { name = "plotly", specifier = ">=6.0.1" },
     { name = "pypdf2", specifier = ">=3.0.1" },
     { name = "python-dotenv", specifier = ">=1.1.0" },
+    { name = "rank-bm25", specifier = ">=0.2.2" },
     { name = "requests", specifier = ">=2.32.3" },
     { name = "scikit-learn", specifier = ">=1.6.1" },
     { name = "seaborn", specifier = ">=0.13.2" },
     { name = "selenium", specifier = ">=4.33.0" },
+    { name = "smolagents", specifier = ">=1.15.0" },
     { name = "spacy", specifier = ">=3.8.7" },
     { name = "statsmodels", specifier = ">=0.14.4" },
     { name = "streamlit", specifier = ">=1.45.0" },
@@ -3076,6 +3080,18 @@ wheels = [
 ]
 
 [[package]]
+name = "rank-bm25"
+version = "0.2.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "numpy" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/fc/0a/f9579384aa017d8b4c15613f86954b92a95a93d641cc849182467cf0bb3b/rank_bm25-0.2.2.tar.gz", hash = "sha256:096ccef76f8188563419aaf384a02f0ea459503fdf77901378d4fd9d87e5e51d", size = 8347 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2a/21/f691fb2613100a62b3fa91e9988c991e9ca5b89ea31c0d3152a3210344f9/rank_bm25-0.2.2-py3-none-any.whl", hash = "sha256:7bd4a95571adadfc271746fa146a4bcfd89c0cf731e49c3d1ad863290adbe8ae", size = 8584 },
+]
+
+[[package]]
 name = "referencing"
 version = "0.36.2"
 source = { registry = "https://pypi.org/simple" }
@@ -3461,6 +3477,23 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/44/cd/a040c4b3119bbe532e5b0732286f805445375489fceaec1f48306068ee3b/smmap-5.0.2.tar.gz", hash = "sha256:26ea65a03958fa0c8a1c7e8c7a58fdc77221b8910f6be2131affade476898ad5", size = 22329 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/04/be/d09147ad1ec7934636ad912901c5fd7667e1c858e19d355237db0d0cd5e4/smmap-5.0.2-py3-none-any.whl", hash = "sha256:b30115f0def7d7531d22a0fb6502488d879e75b260a9db4d0819cfb25403af5e", size = 24303 },
+]
+
+[[package]]
+name = "smolagents"
+version = "1.15.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "huggingface-hub" },
+    { name = "jinja2" },
+    { name = "pillow" },
+    { name = "python-dotenv" },
+    { name = "requests" },
+    { name = "rich" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d6/b5/68d5dd434715e65e438fd60bf6eeb99a88cbffac0b072346ee6766af1594/smolagents-1.15.0.tar.gz", hash = "sha256:ca8fe7b2481e9a0ea761f8158b0a40f2c583c7c5f7cb77426199ef9a13d34178", size = 166877 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/88/42/d23acaf224e562e712b52d6c0651956f2c1b945ae23ec478a3de60c22817/smolagents-1.15.0-py3-none-any.whl", hash = "sha256:68b38fc8e97a0e55ec545ff0df70c02b66b776ff265adffe4f6f845f151c79ca", size = 124313 },
 ]
 
 [[package]]
