@@ -1,5 +1,4 @@
 # Objectives
-
 My objective is to create a de facto central bank independence tracker using country reports published by The Economist Intelligence Unit (EIU) using machine learning. The methodology adopts the narrative approach described in this article:
 
 Carola Conces Binder, “Political Pressure on Central Banks,” Journal of Money, Credit and Banking 53, no. 4 (June 2021): 715–44, https://doi.org/10.1111/jmcb.12772.

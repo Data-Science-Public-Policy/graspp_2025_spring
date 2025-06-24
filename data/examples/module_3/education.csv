@@ -1,0 +1,875 @@
+region,subregion,country,year,PISA,GDI,GINI,LibDem,Public Spending on Education,Private Spending on Education
+Oceania,Australia and New Zealand,Australia,2000,528.0,0.967,,0.84,,
+Oceania,Australia and New Zealand,Australia,2001,,0.958,33.5,0.839,,
+Oceania,Australia and New Zealand,Australia,2002,,0.958,,0.834,,
+Oceania,Australia and New Zealand,Australia,2003,525.0,0.959,33.5,0.834,,
+Oceania,Australia and New Zealand,Australia,2004,,0.958,33.1,0.833,,
+Oceania,Australia and New Zealand,Australia,2005,,0.959,,0.832,,
+Oceania,Australia and New Zealand,Australia,2006,513.0,0.961,,0.832,,
+Oceania,Australia and New Zealand,Australia,2007,,0.962,,0.836,,
+Oceania,Australia and New Zealand,Australia,2008,,0.962,35.4,0.85,,
+Oceania,Australia and New Zealand,Australia,2009,515.0,0.964,,0.85,,
+Oceania,Australia and New Zealand,Australia,2010,,0.964,34.7,0.86,,
+Oceania,Australia and New Zealand,Australia,2011,,0.966,,0.864,,
+Oceania,Australia and New Zealand,Australia,2012,512.0,0.962,,0.864,,
+Oceania,Australia and New Zealand,Australia,2013,,0.962,,0.823,,
+Oceania,Australia and New Zealand,Australia,2014,,0.961,34.4,0.815,,
+Oceania,Australia and New Zealand,Australia,2015,503.0,0.964,,0.829,,
+Oceania,Australia and New Zealand,Australia,2016,,0.966,33.7,0.832,,
+Oceania,Australia and New Zealand,Australia,2017,,0.967,,0.825,,
+Oceania,Australia and New Zealand,Australia,2018,503.0,0.971,34.3,0.813,34.79288,34.79288
+Oceania,Australia and New Zealand,Australia,2019,,0.971,,0.779,33.68129,33.68129
+Oceania,Australia and New Zealand,Australia,2020,,0.972,,0.797,36.275318,36.275318
+Oceania,Australia and New Zealand,Australia,2021,,0.972,,0.785,,
+Oceania,Australia and New Zealand,Australia,2022,498.0,0.98,,0.8,,
+Europe,Western Europe,Austria,2000,492.0,0.959,29.0,0.789,,
+Europe,Western Europe,Austria,2001,,0.96,,0.789,,
+Europe,Western Europe,Austria,2002,,0.962,,0.79,,
+Europe,Western Europe,Austria,2003,491.0,0.961,29.5,0.791,,
+Europe,Western Europe,Austria,2004,,0.961,29.8,0.789,,
+Europe,Western Europe,Austria,2005,,0.964,28.7,0.788,,
+Europe,Western Europe,Austria,2006,490.0,0.966,29.6,0.792,,
+Europe,Western Europe,Austria,2007,,0.964,30.6,0.809,,
+Europe,Western Europe,Austria,2008,,0.963,30.4,0.809,,
+Europe,Western Europe,Austria,2009,470.0,0.965,31.5,0.809,,
+Europe,Western Europe,Austria,2010,,0.975,30.3,0.805,,
+Europe,Western Europe,Austria,2011,,0.975,30.8,0.806,,
+Europe,Western Europe,Austria,2012,490.0,0.975,30.5,0.806,95.143448,95.143448
+Europe,Western Europe,Austria,2013,,0.97,30.8,0.807,94.58402,94.58402
+Europe,Western Europe,Austria,2014,,0.97,30.5,0.808,94.43082,94.43082
+Europe,Western Europe,Austria,2015,485.0,0.969,30.5,0.808,93.76881,93.76881
+Europe,Western Europe,Austria,2016,,0.973,30.8,0.781,93.57476,93.57476
+Europe,Western Europe,Austria,2017,,0.971,29.7,0.785,91.09871,91.09871
+Europe,Western Europe,Austria,2018,484.0,0.972,30.8,0.784,89.4591,89.4591
+Europe,Western Europe,Austria,2019,,0.975,30.2,0.796,88.9847,88.9847
+Europe,Western Europe,Austria,2020,,0.978,29.8,0.789,89.883797,89.883797
+Europe,Western Europe,Austria,2021,,0.983,30.7,0.783,,
+Europe,Western Europe,Austria,2022,480.0,0.982,,0.762,,
+Europe,Western Europe,Belgium,2000,507.0,0.976,33.1,0.819,,
+Europe,Western Europe,Belgium,2001,,0.969,,0.819,,
+Europe,Western Europe,Belgium,2002,,0.968,,0.819,,
+Europe,Western Europe,Belgium,2003,507.0,0.966,28.1,0.82,,
+Europe,Western Europe,Belgium,2004,,0.968,30.5,0.801,,
+Europe,Western Europe,Belgium,2005,,0.967,29.3,0.815,88.73288,88.73288
+Europe,Western Europe,Belgium,2006,501.0,0.967,28.1,0.82,,
+Europe,Western Europe,Belgium,2007,,0.965,29.2,0.833,,
+Europe,Western Europe,Belgium,2008,,0.965,28.4,0.844,87.92018,87.92018
+Europe,Western Europe,Belgium,2009,506.0,0.965,28.6,0.843,87.91188,87.91188
+Europe,Western Europe,Belgium,2010,,0.968,28.4,0.839,87.71764,87.71764
+Europe,Western Europe,Belgium,2011,,0.967,28.1,0.837,87.48977,87.48977
+Europe,Western Europe,Belgium,2012,509.0,0.968,27.5,0.837,84.28478,84.28478
+Europe,Western Europe,Belgium,2013,,0.967,27.7,0.845,84.29762,84.29762
+Europe,Western Europe,Belgium,2014,,0.969,28.1,0.843,83.86056,83.86056
+Europe,Western Europe,Belgium,2015,499.0,0.969,27.7,0.84,83.58294,83.58294
+Europe,Western Europe,Belgium,2016,,0.971,27.6,0.838,82.698418,82.698418
+Europe,Western Europe,Belgium,2017,,0.971,27.4,0.837,82.91347,82.91347
+Europe,Western Europe,Belgium,2018,493.0,0.971,27.2,0.837,83.56802,83.56802
+Europe,Western Europe,Belgium,2019,,0.973,27.2,0.84,84.12302,84.12302
+Europe,Western Europe,Belgium,2020,,0.974,26.0,0.828,83.723373,83.723373
+Europe,Western Europe,Belgium,2021,,0.978,26.6,0.829,,
+Europe,Western Europe,Belgium,2022,479.0,0.981,,0.837,,
+Americas,Northern America,Canada,2000,534.0,0.978,33.4,0.766,60.857,60.857
+Americas,Northern America,Canada,2001,,0.979,33.6,0.76,,
+Americas,Northern America,Canada,2002,,0.979,33.6,0.753,,
+Americas,Northern America,Canada,2003,528.0,0.98,33.8,0.753,,
+Americas,Northern America,Canada,2004,,0.98,33.8,0.758,,
+Americas,Northern America,Canada,2005,,0.98,33.6,0.756,54.88274,54.88274
+Americas,Northern America,Canada,2006,527.0,0.98,34.1,0.765,,
+Americas,Northern America,Canada,2007,,0.981,33.8,0.766,,
+Americas,Northern America,Canada,2008,,0.98,33.9,0.762,62.65391,62.65391
+Americas,Northern America,Canada,2009,524.0,0.982,34.0,0.764,56.36401,56.36401
+Americas,Northern America,Canada,2010,,0.981,33.6,0.763,57.15056,57.15056
+Americas,Northern America,Canada,2011,,0.982,32.7,0.746,54.68584,54.68584
+Americas,Northern America,Canada,2012,523.0,0.983,33.5,0.742,58.9617,58.9617
+Americas,Northern America,Canada,2013,,0.984,33.8,0.746,56.42545,56.42545
+Americas,Northern America,Canada,2014,,0.984,33.2,0.743,55.15824,55.15824
+Americas,Northern America,Canada,2015,527.0,0.985,33.7,0.745,56.5753,56.5753
+Americas,Northern America,Canada,2016,,0.985,32.7,0.765,53.262909,53.262909
+Americas,Northern America,Canada,2017,,0.986,33.3,0.769,53.94815,53.94815
+Americas,Northern America,Canada,2018,520.0,0.986,32.5,0.765,52.33773,52.33773
+Americas,Northern America,Canada,2019,,0.987,31.7,0.768,53.68261,53.68261
+Americas,Northern America,Canada,2020,,0.989,,0.75,51.033508,51.033508
+Americas,Northern America,Canada,2021,,0.993,,0.756,,
+Americas,Northern America,Canada,2022,507.0,0.997,,0.749,,
+Americas,South America,Chile,2000,410.0,0.943,52.8,0.815,19.4713,19.4713
+Americas,South America,Chile,2001,,0.938,,0.815,,
+Americas,South America,Chile,2002,,0.94,,0.815,,
+Americas,South America,Chile,2003,,0.946,51.5,0.815,,
+Americas,South America,Chile,2004,,0.943,,0.815,,
+Americas,South America,Chile,2005,,0.945,,0.822,15.46172,15.46172
+Americas,South America,Chile,2006,442.0,0.949,47.7,0.839,,
+Americas,South America,Chile,2007,,0.946,,0.842,,
+Americas,South America,Chile,2008,,0.948,,0.841,14.42366,14.42366
+Americas,South America,Chile,2009,449.0,0.954,47.4,0.835,14.63646,14.63646
+Americas,South America,Chile,2010,,0.955,,0.838,23.41859,23.41859
+Americas,South America,Chile,2011,,0.959,46.9,0.84,22.10917,22.10917
+Americas,South America,Chile,2012,441.0,0.958,,0.846,24.19256,24.19256
+Americas,South America,Chile,2013,,0.96,46.8,0.848,34.55607,34.55607
+Americas,South America,Chile,2014,,0.961,,0.849,37.50436,37.50436
+Americas,South America,Chile,2015,459.0,0.962,45.3,0.84,35.66116,35.66116
+Americas,South America,Chile,2016,,0.962,,0.84,30.99275,30.99275
+Americas,South America,Chile,2017,,0.968,45.3,0.842,37.78913,37.78913
+Americas,South America,Chile,2018,452.0,0.967,,0.805,41.28828,41.28828
+Americas,South America,Chile,2019,,0.968,,0.763,38.91064,38.91064
+Americas,South America,Chile,2020,,0.97,47.0,0.765,39.71336,39.71336
+Americas,South America,Chile,2021,,0.973,,0.777,,
+Americas,South America,Chile,2022,448.0,0.974,43.0,0.779,,
+Americas,South America,Colombia,2000,,0.996,58.4,0.426,,
+Americas,South America,Colombia,2001,,0.976,57.3,0.425,,
+Americas,South America,Colombia,2002,,0.996,56.0,0.422,,
+Americas,South America,Colombia,2003,,0.991,53.6,0.432,,
+Americas,South America,Colombia,2004,,0.99,55.0,0.433,,
+Americas,South America,Colombia,2005,,0.988,53.9,0.439,,
+Americas,South America,Colombia,2006,385.0,0.971,,0.453,,
+Americas,South America,Colombia,2007,,0.993,,0.468,,
+Americas,South America,Colombia,2008,,0.988,55.3,0.468,,
+Americas,South America,Colombia,2009,413.0,0.993,54.3,0.472,45.97925,45.97925
+Americas,South America,Colombia,2010,,0.993,54.6,0.501,,
+Americas,South America,Colombia,2011,,0.992,53.5,0.542,46.6837,46.6837
+Americas,South America,Colombia,2012,403.0,0.993,52.6,0.544,44.81377,44.81377
+Americas,South America,Colombia,2013,,0.994,52.6,0.542,42.51165,42.51165
+Americas,South America,Colombia,2014,,0.991,52.5,0.553,49.78496,49.78496
+Americas,South America,Colombia,2015,425.0,0.992,51.0,0.557,45.63153,45.63153
+Americas,South America,Colombia,2016,,0.992,50.6,0.557,36.050419,36.050419
+Americas,South America,Colombia,2017,,0.993,49.7,0.554,48.73284,48.73284
+Americas,South America,Colombia,2018,412.0,0.992,50.4,0.538,42.85741,42.85741
+Americas,South America,Colombia,2019,,0.992,51.3,0.515,32.29518,32.29518
+Americas,South America,Colombia,2020,,0.982,53.5,0.497,31.58688,31.58688
+Americas,South America,Colombia,2021,,1.001,55.1,0.502,,
+Americas,South America,Colombia,2022,409.0,0.993,54.8,0.559,,
+Americas,Central America,Costa Rica,2000,,0.946,47.4,0.844,,
+Americas,Central America,Costa Rica,2001,,0.968,51.5,0.844,,
+Americas,Central America,Costa Rica,2002,,0.961,51.8,0.846,,
+Americas,Central America,Costa Rica,2003,,0.961,49.3,0.846,,
+Americas,Central America,Costa Rica,2004,,0.96,48.4,0.843,,
+Americas,Central America,Costa Rica,2005,,0.971,47.5,0.841,,
+Americas,Central America,Costa Rica,2006,,0.966,49.3,0.851,,
+Americas,Central America,Costa Rica,2007,,0.967,49.3,0.855,,
+Americas,Central America,Costa Rica,2008,,0.98,48.6,0.855,,
+Americas,Central America,Costa Rica,2009,,0.961,50.6,0.855,,
+Americas,Central America,Costa Rica,2010,,0.978,48.0,0.859,,
+Americas,Central America,Costa Rica,2011,,0.977,48.8,0.861,,
+Americas,Central America,Costa Rica,2012,441.0,0.98,48.4,0.859,,
+Americas,Central America,Costa Rica,2013,,0.981,49.2,0.854,59.41935,59.41935
+Americas,Central America,Costa Rica,2014,,0.979,48.6,0.856,,
+Americas,Central America,Costa Rica,2015,427.0,0.987,48.4,0.854,,
+Americas,Central America,Costa Rica,2016,,0.98,48.7,0.855,,
+Americas,Central America,Costa Rica,2017,,0.985,48.3,0.852,,
+Americas,Central America,Costa Rica,2018,426.0,0.988,48.0,0.836,,
+Americas,Central America,Costa Rica,2019,,0.989,48.2,0.843,,
+Americas,Central America,Costa Rica,2020,,0.998,49.2,0.848,91.03595,91.03595
+Americas,Central America,Costa Rica,2021,,0.995,48.7,0.844,,
+Americas,Central America,Costa Rica,2022,415.0,0.997,47.2,0.809,,
+Europe,Eastern Europe,Czech Republic,2000,492.0,0.958,,0.804,83.99244,83.99244
+Europe,Eastern Europe,Czech Republic,2001,,0.96,,0.804,,
+Europe,Eastern Europe,Czech Republic,2002,,0.963,26.6,0.813,,
+Europe,Eastern Europe,Czech Republic,2003,489.0,0.965,,0.822,,
+Europe,Eastern Europe,Czech Republic,2004,,0.966,27.5,0.822,,
+Europe,Eastern Europe,Czech Republic,2005,,0.967,26.9,0.823,80.70189,80.70189
+Europe,Eastern Europe,Czech Republic,2006,483.0,0.969,26.7,0.828,,
+Europe,Eastern Europe,Czech Republic,2007,,0.97,26.0,0.83,,
+Europe,Eastern Europe,Czech Republic,2008,,0.971,26.3,0.83,77.55691,77.55691
+Europe,Eastern Europe,Czech Republic,2009,478.0,0.974,26.2,0.821,78.37178,78.37178
+Europe,Eastern Europe,Czech Republic,2010,,0.975,26.6,0.81,75.75015,75.75015
+Europe,Eastern Europe,Czech Republic,2011,,0.975,26.4,0.814,79.92805,79.92805
+Europe,Eastern Europe,Czech Republic,2012,493.0,0.977,26.1,0.819,67.99366,67.99366
+Europe,Eastern Europe,Czech Republic,2013,,0.982,26.5,0.788,64.73061,64.73061
+Europe,Eastern Europe,Czech Republic,2014,,0.982,25.9,0.776,63.82016,63.82016
+Europe,Eastern Europe,Czech Republic,2015,487.0,0.983,25.9,0.776,65.38103,65.38103
+Europe,Eastern Europe,Czech Republic,2016,,0.983,25.4,0.773,72.506088,72.506088
+Europe,Eastern Europe,Czech Republic,2017,,0.984,24.9,0.741,72.9304,72.9304
+Europe,Eastern Europe,Czech Republic,2018,490.0,0.98,25.0,0.717,76.23522,76.23522
+Europe,Eastern Europe,Czech Republic,2019,,0.981,25.3,0.712,76.21867,76.21867
+Europe,Eastern Europe,Czech Republic,2020,,0.982,26.2,0.719,75.010986,75.010986
+Europe,Eastern Europe,Czech Republic,2021,,0.989,26.2,0.706,,
+Europe,Eastern Europe,Czech Republic,2022,489.0,0.987,,0.789,,
+Europe,Northern Europe,Denmark,2000,497.0,0.986,23.8,0.88,97.61373,97.61373
+Europe,Northern Europe,Denmark,2001,,0.986,,0.881,,
+Europe,Northern Europe,Denmark,2002,,0.987,,0.883,,
+Europe,Northern Europe,Denmark,2003,492.0,0.989,25.6,0.883,,
+Europe,Northern Europe,Denmark,2004,,0.992,24.9,0.883,,
+Europe,Northern Europe,Denmark,2005,,0.991,25.2,0.896,96.70573,96.70573
+Europe,Northern Europe,Denmark,2006,494.0,0.992,25.9,0.897,,
+Europe,Northern Europe,Denmark,2007,,0.993,26.2,0.897,,
+Europe,Northern Europe,Denmark,2008,,0.993,25.2,0.897,93.34492,93.34492
+Europe,Northern Europe,Denmark,2009,495.0,0.997,26.7,0.897,92.97375,92.97375
+Europe,Northern Europe,Denmark,2010,,0.994,27.2,0.897,92.26746,92.26746
+Europe,Northern Europe,Denmark,2011,,0.985,27.3,0.896,91.78908,91.78908
+Europe,Northern Europe,Denmark,2012,496.0,0.982,27.8,0.897,,
+Europe,Northern Europe,Denmark,2013,,0.983,28.5,0.896,90.29342,90.29342
+Europe,Northern Europe,Denmark,2014,,0.974,28.4,0.896,92.34969,92.34969
+Europe,Northern Europe,Denmark,2015,500.0,0.98,28.2,0.896,,
+Europe,Northern Europe,Denmark,2016,,0.982,28.2,0.894,88.1968,88.1968
+Europe,Northern Europe,Denmark,2017,,0.983,28.7,0.893,86.01604,86.01604
+Europe,Northern Europe,Denmark,2018,501.0,0.984,28.2,0.893,84.56728,84.56728
+Europe,Northern Europe,Denmark,2019,,0.985,27.7,0.889,84.86734,84.86734
+Europe,Northern Europe,Denmark,2020,,0.985,27.5,0.886,83.238228,83.238228
+Europe,Northern Europe,Denmark,2021,,0.989,28.3,0.887,,
+Europe,Northern Europe,Denmark,2022,489.0,0.991,,0.89,,
+Europe,Northern Europe,Estonia,2000,,1.028,,0.806,,
+Europe,Northern Europe,Estonia,2001,,1.035,,0.806,,
+Europe,Northern Europe,Estonia,2002,,1.039,,0.807,,
+Europe,Northern Europe,Estonia,2003,,1.035,37.2,0.811,,
+Europe,Northern Europe,Estonia,2004,,1.035,33.6,0.813,,
+Europe,Northern Europe,Estonia,2005,,1.032,33.4,0.813,67.94044,67.94044
+Europe,Northern Europe,Estonia,2006,501.0,1.035,33.7,0.813,,
+Europe,Northern Europe,Estonia,2007,,1.036,31.2,0.813,,
+Europe,Northern Europe,Estonia,2008,,1.034,31.9,0.813,72.79056,72.79056
+Europe,Northern Europe,Estonia,2009,501.0,1.032,31.4,0.814,104.3617,104.3617
+Europe,Northern Europe,Estonia,2010,,1.028,32.0,0.832,66.31696,66.31696
+Europe,Northern Europe,Estonia,2011,,1.024,32.5,0.831,68.69616,68.69616
+Europe,Northern Europe,Estonia,2012,516.0,1.024,32.9,0.83,58.43132,58.43132
+Europe,Northern Europe,Estonia,2013,,1.014,35.1,0.836,60.8913,60.8913
+Europe,Northern Europe,Estonia,2014,,1.021,34.6,0.839,76.35246,76.35246
+Europe,Northern Europe,Estonia,2015,519.0,1.024,32.7,0.847,70.94279,70.94279
+Europe,Northern Europe,Estonia,2016,,1.021,31.2,0.862,80.647774,80.647774
+Europe,Northern Europe,Estonia,2017,,1.025,30.4,0.861,72.39684,72.39684
+Europe,Northern Europe,Estonia,2018,523.0,1.026,30.3,0.862,69.48003,69.48003
+Europe,Northern Europe,Estonia,2019,,1.025,30.8,0.849,70.56115,70.56115
+Europe,Northern Europe,Estonia,2020,,1.021,30.7,0.843,72.101807,72.101807
+Europe,Northern Europe,Estonia,2021,,1.027,31.8,0.855,,
+Europe,Northern Europe,Estonia,2022,511.0,1.025,,0.854,,
+Europe,Northern Europe,Finland,2000,546.0,0.998,27.2,0.832,97.23907,97.23907
+Europe,Northern Europe,Finland,2001,,0.997,,0.832,,
+Europe,Northern Europe,Finland,2002,,0.995,,0.832,,
+Europe,Northern Europe,Finland,2003,543.0,0.993,27.7,0.833,,
+Europe,Northern Europe,Finland,2004,,1.0,27.9,0.834,,
+Europe,Northern Europe,Finland,2005,,1.0,27.6,0.834,96.12998,96.12998
+Europe,Northern Europe,Finland,2006,547.0,1.003,28.0,0.837,,
+Europe,Northern Europe,Finland,2007,,1.004,28.3,0.842,,
+Europe,Northern Europe,Finland,2008,,1.001,27.8,0.843,95.42854,95.42854
+Europe,Northern Europe,Finland,2009,536.0,1.002,27.5,0.843,95.77046,95.77046
+Europe,Northern Europe,Finland,2010,,1.003,27.7,0.843,95.94382,95.94382
+Europe,Northern Europe,Finland,2011,,1.004,27.6,0.844,95.88282,95.88282
+Europe,Northern Europe,Finland,2012,524.0,1.0,27.1,0.844,92.334213,92.334213
+Europe,Northern Europe,Finland,2013,,0.989,27.2,0.856,92.16565,92.16565
+Europe,Northern Europe,Finland,2014,,0.99,26.8,0.856,92.43954,92.43954
+Europe,Northern Europe,Finland,2015,526.0,0.99,27.1,0.83,93.05753,93.05753
+Europe,Northern Europe,Finland,2016,,0.99,27.1,0.829,92.478912,92.478912
+Europe,Northern Europe,Finland,2017,,0.99,27.4,0.839,91.85652,91.85652
+Europe,Northern Europe,Finland,2018,520.0,0.989,27.3,0.846,91.02246,91.02246
+Europe,Northern Europe,Finland,2019,,0.988,27.7,0.842,90.44425,90.44425
+Europe,Northern Europe,Finland,2020,,0.991,27.1,0.842,90.355453,90.355453
+Europe,Northern Europe,Finland,2021,,0.989,27.7,0.836,,
+Europe,Northern Europe,Finland,2022,490.0,0.994,,0.833,,
+Europe,Western Europe,France,2000,505.0,0.982,32.6,0.8,,
+Europe,Western Europe,France,2001,,0.982,32.5,0.8,,
+Europe,Western Europe,France,2002,,0.982,31.8,0.798,,
+Europe,Western Europe,France,2003,496.0,0.984,31.4,0.797,,
+Europe,Western Europe,France,2004,,0.984,30.6,0.797,,
+Europe,Western Europe,France,2005,,0.985,29.8,0.797,82.77357,82.77357
+Europe,Western Europe,France,2006,488.0,0.986,29.7,0.797,,
+Europe,Western Europe,France,2007,,0.987,32.4,0.805,,
+Europe,Western Europe,France,2008,,0.986,33.0,0.814,80.56013,80.56013
+Europe,Western Europe,France,2009,496.0,0.989,32.7,0.814,82.15907,82.15907
+Europe,Western Europe,France,2010,,0.986,33.7,0.814,80.81947,80.81947
+Europe,Western Europe,France,2011,,0.987,33.3,0.815,79.60076,79.60076
+Europe,Western Europe,France,2012,505.0,0.986,33.1,0.818,78.505463,78.505463
+Europe,Western Europe,France,2013,,0.985,32.5,0.82,77.55162,77.55162
+Europe,Western Europe,France,2014,,0.986,32.3,0.82,77.25726,77.25726
+Europe,Western Europe,France,2015,499.0,0.986,32.7,0.813,77.85095,77.85095
+Europe,Western Europe,France,2016,,0.986,31.9,0.813,77.130211,77.130211
+Europe,Western Europe,France,2017,,0.987,31.6,0.815,77.02515,77.02515
+Europe,Western Europe,France,2018,493.0,0.987,32.4,0.797,76.54214,76.54214
+Europe,Western Europe,France,2019,,0.988,31.2,0.793,75.26567,75.26567
+Europe,Western Europe,France,2020,,0.991,30.7,0.789,72.556503,72.556503
+Europe,Western Europe,France,2021,,0.988,31.5,0.788,,
+Europe,Western Europe,France,2022,474.0,0.992,,0.808,,
+Europe,Western Europe,Germany,2000,484.0,0.944,28.9,0.856,,
+Europe,Western Europe,Germany,2001,,0.948,29.9,0.856,,
+Europe,Western Europe,Germany,2002,,0.951,29.8,0.857,,
+Europe,Western Europe,Germany,2003,491.0,0.955,29.8,0.857,,
+Europe,Western Europe,Germany,2004,,0.958,30.2,0.857,,
+Europe,Western Europe,Germany,2005,,0.946,31.7,0.861,85.47294,85.47294
+Europe,Western Europe,Germany,2006,495.0,0.947,31.0,0.869,,
+Europe,Western Europe,Germany,2007,,0.95,31.2,0.869,,
+Europe,Western Europe,Germany,2008,,0.947,30.8,0.869,85.09049,85.09049
+Europe,Western Europe,Germany,2009,497.0,0.949,30.5,0.863,,
+Europe,Western Europe,Germany,2010,,0.949,30.2,0.862,84.64345,84.64345
+Europe,Western Europe,Germany,2011,,0.953,30.6,0.867,85.14175,85.14175
+Europe,Western Europe,Germany,2012,508.0,0.953,31.1,0.867,84.134842,84.134842
+Europe,Western Europe,Germany,2013,,0.954,31.5,0.854,83.72941,83.72941
+Europe,Western Europe,Germany,2014,,0.956,30.8,0.847,84.1353,84.1353
+Europe,Western Europe,Germany,2015,509.0,0.958,31.7,0.847,82.7237,82.7237
+Europe,Western Europe,Germany,2016,,0.963,31.4,0.85,83.013489,83.013489
+Europe,Western Europe,Germany,2017,,0.965,31.3,0.843,82.98943,82.98943
+Europe,Western Europe,Germany,2018,498.0,0.966,31.9,0.834,83.37025,83.37025
+Europe,Western Europe,Germany,2019,,0.967,31.8,0.836,81.17921,81.17921
+Europe,Western Europe,Germany,2020,,0.965,32.4,0.824,82.500366,82.500366
+Europe,Western Europe,Germany,2021,,0.971,,0.816,,
+Europe,Western Europe,Germany,2022,480.0,0.972,,0.805,,
+Europe,Southern Europe,Greece,2000,474.0,0.955,34.2,0.799,99.73251,99.73251
+Europe,Southern Europe,Greece,2001,,0.957,,0.806,,
+Europe,Southern Europe,Greece,2002,,0.957,,0.806,,
+Europe,Southern Europe,Greece,2003,472.0,0.957,32.8,0.806,,
+Europe,Southern Europe,Greece,2004,,0.96,33.6,0.806,,
+Europe,Southern Europe,Greece,2005,,0.96,34.6,0.806,96.69408,96.69408
+Europe,Southern Europe,Greece,2006,460.0,0.962,35.1,0.803,,
+Europe,Southern Europe,Greece,2007,,0.964,34.0,0.805,,
+Europe,Southern Europe,Greece,2008,,0.963,33.6,0.813,,
+Europe,Southern Europe,Greece,2009,483.0,0.968,33.6,0.813,,
+Europe,Southern Europe,Greece,2010,,0.966,34.1,0.814,,
+Europe,Southern Europe,Greece,2011,,0.967,34.8,0.817,,
+Europe,Southern Europe,Greece,2012,477.0,0.967,36.3,0.808,82.635643,82.635643
+Europe,Southern Europe,Greece,2013,,0.966,36.1,0.796,74.46649,74.46649
+Europe,Southern Europe,Greece,2014,,0.968,35.8,0.8,72.79422,72.79422
+Europe,Southern Europe,Greece,2015,467.0,0.972,36.0,0.782,73.33002,73.33002
+Europe,Southern Europe,Greece,2016,,0.969,35.0,0.777,,
+Europe,Southern Europe,Greece,2017,,0.969,34.4,0.775,77.00947,77.00947
+Europe,Southern Europe,Greece,2018,457.0,0.969,32.9,0.77,76.89125,76.89125
+Europe,Southern Europe,Greece,2019,,0.968,33.1,0.764,74.669739,74.669739
+Europe,Southern Europe,Greece,2020,,0.971,33.6,0.67,,
+Europe,Southern Europe,Greece,2021,,0.971,32.9,0.636,,
+Europe,Southern Europe,Greece,2022,438.0,0.968,,0.61,,
+Europe,Eastern Europe,Hungary,2000,480.0,0.981,,0.752,76.67942,76.67942
+Europe,Eastern Europe,Hungary,2001,,0.983,,0.752,,
+Europe,Eastern Europe,Hungary,2002,,0.988,,0.757,,
+Europe,Eastern Europe,Hungary,2003,482.0,0.994,,0.762,,
+Europe,Eastern Europe,Hungary,2004,,0.993,29.9,0.762,,
+Europe,Eastern Europe,Hungary,2005,,0.994,34.7,0.755,,
+Europe,Eastern Europe,Hungary,2006,482.0,0.998,28.3,0.744,,
+Europe,Eastern Europe,Hungary,2007,,1.001,27.9,0.768,,
+Europe,Eastern Europe,Hungary,2008,,0.999,27.5,0.767,,
+Europe,Eastern Europe,Hungary,2009,494.0,0.998,27.0,0.766,,
+Europe,Eastern Europe,Hungary,2010,,0.998,29.4,0.676,,
+Europe,Eastern Europe,Hungary,2011,,0.994,29.2,0.642,,
+Europe,Eastern Europe,Hungary,2012,488.0,0.993,30.8,0.619,54.43539,54.43539
+Europe,Eastern Europe,Hungary,2013,,0.992,31.5,0.564,61.18879,61.18879
+Europe,Eastern Europe,Hungary,2014,,0.989,30.9,0.518,69.67638,69.67638
+Europe,Eastern Europe,Hungary,2015,470.0,0.99,30.4,0.478,62.94263,62.94263
+Europe,Eastern Europe,Hungary,2016,,0.987,30.3,0.471,62.80616,62.80616
+Europe,Eastern Europe,Hungary,2017,,0.988,30.6,0.435,65.45336,65.45336
+Europe,Eastern Europe,Hungary,2018,476.0,0.985,29.6,0.373,67.67234,67.67234
+Europe,Eastern Europe,Hungary,2019,,0.986,30.0,0.364,69.5898,69.5898
+Europe,Eastern Europe,Hungary,2020,,0.988,29.7,0.358,73.309303,73.309303
+Europe,Eastern Europe,Hungary,2021,,0.993,29.2,0.345,,
+Europe,Eastern Europe,Hungary,2022,473.0,0.992,,0.335,,
+Europe,Northern Europe,Iceland,2000,507.0,0.981,,0.786,91.77778,91.77778
+Europe,Northern Europe,Iceland,2001,,0.986,,0.786,,
+Europe,Northern Europe,Iceland,2002,,0.981,,0.786,,
+Europe,Northern Europe,Iceland,2003,492.0,0.971,26.8,0.784,,
+Europe,Northern Europe,Iceland,2004,,0.969,28.0,0.782,,
+Europe,Northern Europe,Iceland,2005,,0.967,29.0,0.78,90.53818,90.53818
+Europe,Northern Europe,Iceland,2006,484.0,0.966,30.2,0.78,,
+Europe,Northern Europe,Iceland,2007,,0.971,29.5,0.788,,
+Europe,Northern Europe,Iceland,2008,,0.968,31.8,0.794,92.16214,92.16214
+Europe,Northern Europe,Iceland,2009,500.0,0.973,28.7,0.796,92.00947,92.00947
+Europe,Northern Europe,Iceland,2010,,0.973,26.2,0.8,91.17648,91.17648
+Europe,Northern Europe,Iceland,2011,,0.967,26.8,0.797,90.59655,90.59655
+Europe,Northern Europe,Iceland,2012,483.0,0.961,26.8,0.796,85.310448,85.310448
+Europe,Northern Europe,Iceland,2013,,0.961,25.4,0.779,86.84326,86.84326
+Europe,Northern Europe,Iceland,2014,,0.965,27.8,0.778,89.11703,89.11703
+Europe,Northern Europe,Iceland,2015,482.0,0.965,26.8,0.782,89.30553,89.30553
+Europe,Northern Europe,Iceland,2016,,0.974,27.2,0.779,88.573341,88.573341
+Europe,Northern Europe,Iceland,2017,,0.978,26.1,0.782,89.87978,89.87978
+Europe,Northern Europe,Iceland,2018,474.0,0.982,,0.795,88.32385,88.32385
+Europe,Northern Europe,Iceland,2019,,0.988,,0.781,88.66363,88.66363
+Europe,Northern Europe,Iceland,2020,,0.983,,0.785,89.682114,89.682114
+Europe,Northern Europe,Iceland,2021,,0.975,,0.749,,
+Europe,Northern Europe,Iceland,2022,436.0,0.988,,0.742,,
+Europe,Northern Europe,Ireland,2000,527.0,0.979,33.0,0.811,,
+Europe,Northern Europe,Ireland,2001,,0.982,,0.811,,
+Europe,Northern Europe,Ireland,2002,,0.985,32.3,0.811,,
+Europe,Northern Europe,Ireland,2003,515.0,0.984,32.9,0.811,,
+Europe,Northern Europe,Ireland,2004,,0.968,33.6,0.811,,
+Europe,Northern Europe,Ireland,2005,,0.972,33.8,0.811,,
+Europe,Northern Europe,Ireland,2006,517.0,0.972,32.7,0.811,,
+Europe,Northern Europe,Ireland,2007,,0.969,31.9,0.822,,
+Europe,Northern Europe,Ireland,2008,,0.97,30.9,0.828,,
+Europe,Northern Europe,Ireland,2009,496.0,0.972,32.7,0.828,,
+Europe,Northern Europe,Ireland,2010,,0.972,32.3,0.828,,
+Europe,Northern Europe,Ireland,2011,,0.97,32.9,0.823,,
+Europe,Northern Europe,Ireland,2012,523.0,0.972,33.2,0.822,,
+Europe,Northern Europe,Ireland,2013,,0.97,33.5,0.826,,
+Europe,Northern Europe,Ireland,2014,,0.969,31.9,0.825,,
+Europe,Northern Europe,Ireland,2015,521.0,0.973,31.8,0.826,66.71474,66.71474
+Europe,Northern Europe,Ireland,2016,,0.978,32.8,0.819,67.098396,67.098396
+Europe,Northern Europe,Ireland,2017,,0.98,31.4,0.822,66.93074,66.93074
+Europe,Northern Europe,Ireland,2018,518.0,0.982,30.6,0.825,67.88229,67.88229
+Europe,Northern Europe,Ireland,2019,,0.987,30.8,0.827,68.48611,68.48611
+Europe,Northern Europe,Ireland,2020,,0.986,29.2,0.827,70.37957,70.37957
+Europe,Northern Europe,Ireland,2021,,0.991,30.1,0.835,,
+Europe,Northern Europe,Ireland,2022,516.0,0.996,,0.826,,
+Asia,Western Asia,Israel,2000,452.0,0.941,,0.699,60.05169,60.05169
+Asia,Western Asia,Israel,2001,,0.942,38.9,0.689,,
+Asia,Western Asia,Israel,2002,,0.942,39.6,0.69,,
+Asia,Western Asia,Israel,2003,,0.942,40.7,0.688,,
+Asia,Western Asia,Israel,2004,,0.944,41.5,0.688,,
+Asia,Western Asia,Israel,2005,,0.959,42.3,0.688,53.06464,53.06464
+Asia,Western Asia,Israel,2006,439.0,0.973,41.6,0.691,,
+Asia,Western Asia,Israel,2007,,0.974,41.1,0.688,,
+Asia,Western Asia,Israel,2008,,0.975,41.6,0.688,51.3198,51.3198
+Asia,Western Asia,Israel,2009,474.0,0.969,42.6,0.684,58.16929,58.16929
+Asia,Western Asia,Israel,2010,,0.969,42.6,0.672,54.22624,54.22624
+Asia,Western Asia,Israel,2011,,0.968,41.4,0.672,48.99751,48.99751
+Asia,Western Asia,Israel,2012,486.0,0.97,41.3,0.678,51.830849,51.830849
+Asia,Western Asia,Israel,2013,,0.971,39.9,0.663,52.18204,52.18204
+Asia,Western Asia,Israel,2014,,0.973,39.8,0.663,52.81182,52.81182
+Asia,Western Asia,Israel,2015,479.0,0.976,39.7,0.656,59.26456,59.26456
+Asia,Western Asia,Israel,2016,,0.973,39.0,0.649,53.85601,53.85601
+Asia,Western Asia,Israel,2017,,0.987,38.2,0.637,58.48301,58.48301
+Asia,Western Asia,Israel,2018,470.0,0.979,38.6,0.632,51.78571,51.78571
+Asia,Western Asia,Israel,2019,,0.989,38.3,0.625,52.09787,52.09787
+Asia,Western Asia,Israel,2020,,0.991,37.8,0.641,56.695309,56.695309
+Asia,Western Asia,Israel,2021,,0.982,37.9,0.654,,
+Asia,Western Asia,Israel,2022,474.0,0.991,,0.653,,
+Europe,Southern Europe,Italy,2000,487.0,0.955,35.2,0.756,77.15996,77.15996
+Europe,Southern Europe,Italy,2001,,0.959,,0.747,,
+Europe,Southern Europe,Italy,2002,,0.957,34.7,0.756,,
+Europe,Southern Europe,Italy,2003,476.0,0.958,34.9,0.758,,
+Europe,Southern Europe,Italy,2004,,0.963,34.3,0.758,,
+Europe,Southern Europe,Italy,2005,,0.963,33.8,0.764,72.17553,72.17553
+Europe,Southern Europe,Italy,2006,469.0,0.965,33.7,0.778,,
+Europe,Southern Europe,Italy,2007,,0.966,32.9,0.789,,
+Europe,Southern Europe,Italy,2008,,0.969,33.8,0.77,69.37157,69.37157
+Europe,Southern Europe,Italy,2009,486.0,0.969,33.8,0.771,67.31834,67.31834
+Europe,Southern Europe,Italy,2010,,0.969,34.7,0.775,66.07988,66.07988
+Europe,Southern Europe,Italy,2011,,0.97,35.1,0.784,64.46392,64.46392
+Europe,Southern Europe,Italy,2012,490.0,0.971,35.2,0.791,64.193321,64.193321
+Europe,Southern Europe,Italy,2013,,0.969,34.9,0.786,65.01943,65.01943
+Europe,Southern Europe,Italy,2014,,0.969,34.7,0.787,63.24794,63.24794
+Europe,Southern Europe,Italy,2015,485.0,0.968,35.4,0.787,61.71525,61.71525
+Europe,Southern Europe,Italy,2016,,0.97,35.2,0.794,60.97065,60.97065
+Europe,Southern Europe,Italy,2017,,0.969,35.9,0.795,61.82516,61.82516
+Europe,Southern Europe,Italy,2018,476.0,0.969,35.2,0.788,61.88784,61.88784
+Europe,Southern Europe,Italy,2019,,0.971,34.6,0.783,60.99926,60.99926
+Europe,Southern Europe,Italy,2020,,0.975,35.2,0.78,61.431301,61.431301
+Europe,Southern Europe,Italy,2021,,0.972,34.8,0.781,,
+Europe,Southern Europe,Italy,2022,482.0,0.975,,0.766,,
+Asia,Eastern Asia,Japan,2000,522.0,0.959,,0.77,,
+Asia,Eastern Asia,Japan,2001,,0.96,,0.77,,
+Asia,Eastern Asia,Japan,2002,,0.96,,0.77,,
+Asia,Eastern Asia,Japan,2003,498.0,0.96,,0.77,,
+Asia,Eastern Asia,Japan,2004,,0.961,,0.77,,
+Asia,Eastern Asia,Japan,2005,,0.961,,0.772,32.24158,32.24158
+Asia,Eastern Asia,Japan,2006,498.0,0.961,,0.777,,
+Asia,Eastern Asia,Japan,2007,,0.961,,0.777,,
+Asia,Eastern Asia,Japan,2008,,0.961,34.8,0.781,,
+Asia,Eastern Asia,Japan,2009,520.0,0.958,,0.785,,
+Asia,Eastern Asia,Japan,2010,,0.957,32.1,0.783,34.35134,34.35134
+Asia,Eastern Asia,Japan,2011,,0.957,,0.783,31.65347,31.65347
+Asia,Eastern Asia,Japan,2012,538.0,0.958,,0.776,32.581261,32.581261
+Asia,Eastern Asia,Japan,2013,,0.959,32.9,0.749,34.52237,34.52237
+Asia,Eastern Asia,Japan,2014,,0.96,,0.747,33.79136,33.79136
+Asia,Eastern Asia,Japan,2015,516.0,0.961,,0.748,32.06198,32.06198
+Asia,Eastern Asia,Japan,2016,,0.962,,0.748,30.555969,30.555969
+Asia,Eastern Asia,Japan,2017,,0.964,,0.747,31.23126,31.23126
+Asia,Eastern Asia,Japan,2018,504.0,0.965,,0.76,32.13429,32.13429
+Asia,Eastern Asia,Japan,2019,,0.966,,0.762,32.62918,32.62918
+Asia,Eastern Asia,Japan,2020,,0.965,,0.748,35.546391,35.546391
+Asia,Eastern Asia,Japan,2021,,0.966,,0.738,,
+Asia,Eastern Asia,Japan,2022,516.0,0.97,,0.738,,
+Asia,Eastern Asia,"Korea, Republic of",2000,525.0,0.933,,0.765,,
+Asia,Eastern Asia,"Korea, Republic of",2001,,0.934,,0.769,,
+Asia,Eastern Asia,"Korea, Republic of",2002,,0.934,,0.771,,
+Asia,Eastern Asia,"Korea, Republic of",2003,534.0,0.932,,0.772,,
+Asia,Eastern Asia,"Korea, Republic of",2004,,0.935,,0.772,,
+Asia,Eastern Asia,"Korea, Republic of",2005,,0.936,,0.772,,
+Asia,Eastern Asia,"Korea, Republic of",2006,556.0,0.937,31.7,0.772,,
+Asia,Eastern Asia,"Korea, Republic of",2007,,0.936,,0.77,,
+Asia,Eastern Asia,"Korea, Republic of",2008,,0.937,32.3,0.67,,
+Asia,Eastern Asia,"Korea, Republic of",2009,539.0,0.927,,0.669,,
+Asia,Eastern Asia,"Korea, Republic of",2010,,0.933,32.0,0.67,,
+Asia,Eastern Asia,"Korea, Republic of",2011,,0.933,,0.67,,
+Asia,Eastern Asia,"Korea, Republic of",2012,536.0,0.934,31.6,0.66,,
+Asia,Eastern Asia,"Korea, Republic of",2013,,0.935,,0.611,,
+Asia,Eastern Asia,"Korea, Republic of",2014,,0.936,31.2,0.602,,
+Asia,Eastern Asia,"Korea, Republic of",2015,517.0,0.937,,0.606,36.13366,36.13366
+Asia,Eastern Asia,"Korea, Republic of",2016,,0.939,35.2,0.628,37.577148,37.577148
+Asia,Eastern Asia,"Korea, Republic of",2017,,0.941,34.9,0.795,38.13295,38.13295
+Asia,Eastern Asia,"Korea, Republic of",2018,514.0,0.944,33.7,0.797,39.74156,39.74156
+Asia,Eastern Asia,"Korea, Republic of",2019,,0.946,33.2,0.784,38.2566,38.2566
+Asia,Eastern Asia,"Korea, Republic of",2020,,0.947,32.7,0.79,43.263229,43.263229
+Asia,Eastern Asia,"Korea, Republic of",2021,,0.948,32.9,0.781,,
+Asia,Eastern Asia,"Korea, Republic of",2022,515.0,0.949,,0.729,,
+Europe,Northern Europe,Latvia,2000,458.0,1.034,,0.703,56.00677,56.00677
+Europe,Northern Europe,Latvia,2001,,1.037,,0.703,,
+Europe,Northern Europe,Latvia,2002,,1.039,,0.706,,
+Europe,Northern Europe,Latvia,2003,491.0,1.035,,0.712,,
+Europe,Northern Europe,Latvia,2004,,1.038,36.4,0.712,,
+Europe,Northern Europe,Latvia,2005,,1.046,39.0,0.708,53.8003,53.8003
+Europe,Northern Europe,Latvia,2006,479.0,1.048,35.6,0.699,,
+Europe,Northern Europe,Latvia,2007,,1.043,37.5,0.684,,
+Europe,Northern Europe,Latvia,2008,,1.047,37.2,0.684,60.25676,60.25676
+Europe,Northern Europe,Latvia,2009,484.0,1.043,35.9,0.694,55.16903,55.16903
+Europe,Northern Europe,Latvia,2010,,1.04,35.0,0.699,51.99277,51.99277
+Europe,Northern Europe,Latvia,2011,,1.034,35.8,0.725,58.23732,58.23732
+Europe,Northern Europe,Latvia,2012,489.0,1.033,35.2,0.733,59.860741,59.860741
+Europe,Northern Europe,Latvia,2013,,1.026,35.5,0.743,61.73703,61.73703
+Europe,Northern Europe,Latvia,2014,,1.03,35.1,0.752,73.4198,73.4198
+Europe,Northern Europe,Latvia,2015,488.0,1.033,34.2,0.756,72.61578,72.61578
+Europe,Northern Europe,Latvia,2016,,1.032,34.3,0.749,65.301086,65.301086
+Europe,Northern Europe,Latvia,2017,,1.033,35.6,0.746,59.7896,59.7896
+Europe,Northern Europe,Latvia,2018,479.0,1.031,35.1,0.745,57.6136,57.6136
+Europe,Northern Europe,Latvia,2019,,1.024,34.5,0.746,57.50362,57.50362
+Europe,Northern Europe,Latvia,2020,,1.025,35.7,0.739,58.125511,58.125511
+Europe,Northern Europe,Latvia,2021,,1.031,34.3,0.744,,
+Europe,Northern Europe,Latvia,2022,475.0,1.028,,0.743,,
+Europe,Northern Europe,Lithuania,2000,,1.013,,0.759,,
+Europe,Northern Europe,Lithuania,2001,,1.02,,0.758,,
+Europe,Northern Europe,Lithuania,2002,,1.018,,0.758,,
+Europe,Northern Europe,Lithuania,2003,,1.022,,0.753,,
+Europe,Northern Europe,Lithuania,2004,,1.024,37.0,0.761,,
+Europe,Northern Europe,Lithuania,2005,,1.037,35.3,0.76,63.12416,63.12416
+Europe,Northern Europe,Lithuania,2006,470.0,1.041,34.4,0.759,,
+Europe,Northern Europe,Lithuania,2007,,1.041,34.8,0.76,,
+Europe,Northern Europe,Lithuania,2008,,1.03,35.7,0.765,65.4518,65.4518
+Europe,Northern Europe,Lithuania,2009,468.0,1.031,37.2,0.787,62.49936,62.49936
+Europe,Northern Europe,Lithuania,2010,,1.04,33.6,0.791,66.69221,66.69221
+Europe,Northern Europe,Lithuania,2011,,1.044,32.5,0.789,71.90716,71.90716
+Europe,Northern Europe,Lithuania,2012,477.0,1.038,35.1,0.784,72.964844,72.964844
+Europe,Northern Europe,Lithuania,2013,,1.031,35.3,0.773,72.67757,72.67757
+Europe,Northern Europe,Lithuania,2014,,1.026,37.7,0.774,74.34711,74.34711
+Europe,Northern Europe,Lithuania,2015,472.0,1.03,37.4,0.781,71.76677,71.76677
+Europe,Northern Europe,Lithuania,2016,,1.029,38.4,0.772,66.318619,66.318619
+Europe,Northern Europe,Lithuania,2017,,1.023,37.3,0.749,64.48744,64.48744
+Europe,Northern Europe,Lithuania,2018,476.0,1.02,35.7,0.75,66.09361,66.09361
+Europe,Northern Europe,Lithuania,2019,,1.017,35.3,0.757,67.0477,67.0477
+Europe,Northern Europe,Lithuania,2020,,1.023,36.0,0.75,69.735893,69.735893
+Europe,Northern Europe,Lithuania,2021,,1.022,36.7,0.739,,
+Europe,Northern Europe,Lithuania,2022,472.0,1.028,,0.741,,
+Europe,Western Europe,Luxembourg,2000,441.0,0.994,30.1,0.792,,
+Europe,Western Europe,Luxembourg,2001,,0.993,30.9,0.792,,
+Europe,Western Europe,Luxembourg,2002,,0.988,31.0,0.792,,
+Europe,Western Europe,Luxembourg,2003,479.0,0.972,30.2,0.792,,
+Europe,Western Europe,Luxembourg,2004,,0.978,30.2,0.792,,
+Europe,Western Europe,Luxembourg,2005,,0.975,30.8,0.791,,
+Europe,Western Europe,Luxembourg,2006,479.0,0.976,30.9,0.791,,
+Europe,Western Europe,Luxembourg,2007,,0.986,31.1,0.791,,
+Europe,Western Europe,Luxembourg,2008,,0.975,32.6,0.791,,
+Europe,Western Europe,Luxembourg,2009,472.0,0.963,31.2,0.794,,
+Europe,Western Europe,Luxembourg,2010,,0.975,30.5,0.796,,
+Europe,Western Europe,Luxembourg,2011,,0.975,32.1,0.796,,
+Europe,Western Europe,Luxembourg,2012,488.0,0.981,34.3,0.796,92.512512,92.512512
+Europe,Western Europe,Luxembourg,2013,,0.98,32.0,0.796,95.87461,95.87461
+Europe,Western Europe,Luxembourg,2014,,0.989,31.2,0.795,93.34135,93.34135
+Europe,Western Europe,Luxembourg,2015,481.0,0.985,32.9,0.795,92.39321,92.39321
+Europe,Western Europe,Luxembourg,2016,,0.992,31.7,0.795,91.85878,91.85878
+Europe,Western Europe,Luxembourg,2017,,0.992,34.5,0.795,88.8977,88.8977
+Europe,Western Europe,Luxembourg,2018,470.0,0.996,35.4,0.795,90.36514,90.36514
+Europe,Western Europe,Luxembourg,2019,,0.992,34.2,0.795,91.01956,91.01956
+Europe,Western Europe,Luxembourg,2020,,0.997,33.4,0.788,90.319023,90.319023
+Europe,Western Europe,Luxembourg,2021,,0.998,32.7,0.788,,
+Europe,Western Europe,Luxembourg,2022,,0.999,,0.792,,
+Americas,Central America,Mexico,2000,422.0,0.926,53.4,0.481,79.39841,79.39841
+Americas,Central America,Mexico,2001,,0.927,,0.489,,
+Americas,Central America,Mexico,2002,,0.927,50.6,0.495,,
+Americas,Central America,Mexico,2003,400.0,0.931,,0.502,,
+Americas,Central America,Mexico,2004,,0.933,50.3,0.511,,
+Americas,Central America,Mexico,2005,,0.94,50.9,0.511,68.97909,68.97909
+Americas,Central America,Mexico,2006,410.0,0.94,49.7,0.479,,
+Americas,Central America,Mexico,2007,,0.942,,0.452,,
+Americas,Central America,Mexico,2008,,0.944,50.8,0.455,70.13445,70.13445
+Americas,Central America,Mexico,2009,425.0,0.948,,0.46,68.68877,68.68877
+Americas,Central America,Mexico,2010,,0.952,47.7,0.47,69.88416,69.88416
+Americas,Central America,Mexico,2011,,0.953,,0.469,67.06262,67.06262
+Americas,Central America,Mexico,2012,424.0,0.952,49.6,0.461,69.690102,69.690102
+Americas,Central America,Mexico,2013,,0.954,,0.425,70.32203,70.32203
+Americas,Central America,Mexico,2014,,0.954,48.9,0.424,71.18258,71.18258
+Americas,Central America,Mexico,2015,423.0,0.955,,0.433,70.86375,70.86375
+Americas,Central America,Mexico,2016,,0.958,46.9,0.433,69.096931,69.096931
+Americas,Central America,Mexico,2017,,0.96,,0.439,69.75447,69.75447
+Americas,Central America,Mexico,2018,420.0,0.964,46.0,0.455,57.56574,57.56574
+Americas,Central America,Mexico,2019,,0.968,,0.434,55.89927,55.89927
+Americas,Central America,Mexico,2020,,0.979,44.6,0.406,66.899391,66.899391
+Americas,Central America,Mexico,2021,,0.982,,0.37,,
+Americas,Central America,Mexico,2022,415.0,0.978,43.5,0.334,,
+Europe,Western Europe,Netherlands,2000,,0.954,,0.815,74.05474,74.05474
+Europe,Western Europe,Netherlands,2001,,0.959,,0.815,,
+Europe,Western Europe,Netherlands,2002,,0.959,,0.803,,
+Europe,Western Europe,Netherlands,2003,513.0,0.96,,0.809,,
+Europe,Western Europe,Netherlands,2004,,0.962,29.8,0.809,,
+Europe,Western Europe,Netherlands,2005,,0.95,29.0,0.809,71.7541,71.7541
+Europe,Western Europe,Netherlands,2006,507.0,0.95,30.0,0.814,,
+Europe,Western Europe,Netherlands,2007,,0.953,29.6,0.822,,
+Europe,Western Europe,Netherlands,2008,,0.953,29.3,0.822,69.82674,69.82674
+Europe,Western Europe,Netherlands,2009,508.0,0.954,27.9,0.822,69.5383,69.5383
+Europe,Western Europe,Netherlands,2010,,0.957,27.8,0.826,70.05509,70.05509
+Europe,Western Europe,Netherlands,2011,,0.959,27.8,0.828,69.01323,69.01323
+Europe,Western Europe,Netherlands,2012,511.0,0.956,27.6,0.825,68.648537,68.648537
+Europe,Western Europe,Netherlands,2013,,0.956,28.1,0.829,68.2345,68.2345
+Europe,Western Europe,Netherlands,2014,,0.956,28.6,0.832,67.73226,67.73226
+Europe,Western Europe,Netherlands,2015,503.0,0.958,28.2,0.832,67.5386,67.5386
+Europe,Western Europe,Netherlands,2016,,0.959,28.2,0.832,67.485031,67.485031
+Europe,Western Europe,Netherlands,2017,,0.96,28.5,0.835,66.86879,66.86879
+Europe,Western Europe,Netherlands,2018,485.0,0.961,28.1,0.831,67.74423,67.74423
+Europe,Western Europe,Netherlands,2019,,0.962,29.2,0.814,68.3316,68.3316
+Europe,Western Europe,Netherlands,2020,,0.961,26.0,0.806,68.466026,68.466026
+Europe,Western Europe,Netherlands,2021,,0.968,25.7,0.81,,
+Europe,Western Europe,Netherlands,2022,459.0,0.968,,0.797,,
+Oceania,Australia and New Zealand,New Zealand,2000,529.0,0.979,,0.827,52.10261,52.10261
+Oceania,Australia and New Zealand,New Zealand,2001,,0.977,,0.827,,
+Oceania,Australia and New Zealand,New Zealand,2002,,0.975,,0.827,,
+Oceania,Australia and New Zealand,New Zealand,2003,522.0,0.974,,0.828,,
+Oceania,Australia and New Zealand,New Zealand,2004,,0.971,,0.828,,
+Oceania,Australia and New Zealand,New Zealand,2005,,0.971,,0.828,52.25578,52.25578
+Oceania,Australia and New Zealand,New Zealand,2006,521.0,0.968,,0.827,,
+Oceania,Australia and New Zealand,New Zealand,2007,,0.969,,0.827,,
+Oceania,Australia and New Zealand,New Zealand,2008,,0.968,,0.829,58.74877,58.74877
+Oceania,Australia and New Zealand,New Zealand,2009,521.0,0.964,,0.843,58.11138,58.11138
+Oceania,Australia and New Zealand,New Zealand,2010,,0.963,,0.845,56.22639,56.22639
+Oceania,Australia and New Zealand,New Zealand,2011,,0.97,,0.842,54.93686,54.93686
+Oceania,Australia and New Zealand,New Zealand,2012,512.0,0.972,,0.841,53.661869,53.661869
+Oceania,Australia and New Zealand,New Zealand,2013,,0.971,,0.834,53.72038,53.72038
+Oceania,Australia and New Zealand,New Zealand,2014,,0.962,,0.833,52.74669,52.74669
+Oceania,Australia and New Zealand,New Zealand,2015,509.0,0.962,,0.835,51.49054,51.49054
+Oceania,Australia and New Zealand,New Zealand,2016,,0.972,,0.835,50.783428,50.783428
+Oceania,Australia and New Zealand,New Zealand,2017,,0.968,,0.829,50.83804,50.83804
+Oceania,Australia and New Zealand,New Zealand,2018,506.0,0.978,,0.835,53.55965,53.55965
+Oceania,Australia and New Zealand,New Zealand,2019,,0.968,,0.835,53.65507,53.65507
+Oceania,Australia and New Zealand,New Zealand,2020,,0.969,,0.829,57.86121,57.86121
+Oceania,Australia and New Zealand,New Zealand,2021,,0.97,,0.817,,
+Oceania,Australia and New Zealand,New Zealand,2022,501.0,0.969,,0.823,,
+Europe,Northern Europe,Norway,2000,505.0,0.996,27.4,0.854,96.30037,96.30037
+Europe,Northern Europe,Norway,2001,,0.997,,0.855,,
+Europe,Northern Europe,Norway,2002,,0.996,,0.857,,
+Europe,Northern Europe,Norway,2003,500.0,0.995,27.6,0.857,,
+Europe,Northern Europe,Norway,2004,,0.994,31.6,0.857,,
+Europe,Northern Europe,Norway,2005,,0.999,30.6,0.86,,
+Europe,Northern Europe,Norway,2006,484.0,0.999,26.4,0.864,,
+Europe,Northern Europe,Norway,2007,,1.0,27.1,0.864,,
+Europe,Northern Europe,Norway,2008,,1.005,27.0,0.864,96.89123,96.89123
+Europe,Northern Europe,Norway,2009,503.0,1.0,26.2,0.865,96.09732,96.09732
+Europe,Northern Europe,Norway,2010,,0.997,25.7,0.868,96.00083,96.00083
+Europe,Northern Europe,Norway,2011,,1.001,25.3,0.87,95.89608,95.89608
+Europe,Northern Europe,Norway,2012,504.0,1.001,25.7,0.87,96.124237,96.124237
+Europe,Northern Europe,Norway,2013,,1.0,26.4,0.856,96.04375,96.04375
+Europe,Northern Europe,Norway,2014,,0.999,26.8,0.856,96.28214,96.28214
+Europe,Northern Europe,Norway,2015,513.0,0.997,27.5,0.862,95.97607,95.97607
+Europe,Northern Europe,Norway,2016,,0.993,28.5,0.862,93.060066,93.060066
+Europe,Northern Europe,Norway,2017,,0.995,27.0,0.86,91.60162,91.60162
+Europe,Northern Europe,Norway,2018,499.0,0.997,27.6,0.845,92.33887,92.33887
+Europe,Northern Europe,Norway,2019,,0.994,27.7,0.853,92.20998,92.20998
+Europe,Northern Europe,Norway,2020,,0.99,,0.832,91.694763,91.694763
+Europe,Northern Europe,Norway,2021,,0.996,,0.836,,
+Europe,Northern Europe,Norway,2022,477.0,0.997,,0.834,,
+Europe,Eastern Europe,Poland,2000,479.0,0.992,,0.804,99.50333,99.50333
+Europe,Eastern Europe,Poland,2001,,0.993,,0.804,,
+Europe,Eastern Europe,Poland,2002,,0.993,,0.812,,
+Europe,Eastern Europe,Poland,2003,497.0,0.993,,0.812,,
+Europe,Eastern Europe,Poland,2004,,0.996,38.0,0.812,,
+Europe,Eastern Europe,Poland,2005,,1.005,35.8,0.814,73.98409,73.98409
+Europe,Eastern Europe,Poland,2006,508.0,1.005,34.7,0.805,,
+Europe,Eastern Europe,Poland,2007,,1.004,34.0,0.804,,
+Europe,Eastern Europe,Poland,2008,,1.005,33.5,0.831,69.08633,69.08633
+Europe,Eastern Europe,Poland,2009,500.0,1.007,33.4,0.831,69.02267,69.02267
+Europe,Eastern Europe,Poland,2010,,1.011,33.2,0.831,68.4386,68.4386
+Europe,Eastern Europe,Poland,2011,,1.013,33.2,0.833,74.30971,74.30971
+Europe,Eastern Europe,Poland,2012,518.0,1.012,33.0,0.832,74.430618,74.430618
+Europe,Eastern Europe,Poland,2013,,1.012,33.1,0.827,77.85632,77.85632
+Europe,Eastern Europe,Poland,2014,,1.01,32.8,0.817,78.71931,78.71931
+Europe,Eastern Europe,Poland,2015,506.0,1.008,31.8,0.779,79.10197,79.10197
+Europe,Eastern Europe,Poland,2016,,1.01,31.2,0.593,78.689934,78.689934
+Europe,Eastern Europe,Poland,2017,,1.009,29.7,0.544,80.55491,80.55491
+Europe,Eastern Europe,Poland,2018,512.0,1.012,30.2,0.523,78.96813,78.96813
+Europe,Eastern Europe,Poland,2019,,1.01,28.8,0.508,79.68755,79.68755
+Europe,Eastern Europe,Poland,2020,,1.014,28.5,0.449,79.675079,79.675079
+Europe,Eastern Europe,Poland,2021,,1.018,28.5,0.419,,
+Europe,Eastern Europe,Poland,2022,489.0,1.018,,0.417,,
+Europe,Southern Europe,Portugal,2000,470.0,0.986,,0.815,92.47052,92.47052
+Europe,Southern Europe,Portugal,2001,,0.988,,0.823,,
+Europe,Southern Europe,Portugal,2002,,0.989,,0.824,,
+Europe,Southern Europe,Portugal,2003,478.0,0.997,38.8,0.823,,
+Europe,Southern Europe,Portugal,2004,,0.998,38.9,0.823,,
+Europe,Southern Europe,Portugal,2005,,0.999,38.5,0.836,66.01618,66.01618
+Europe,Southern Europe,Portugal,2006,472.0,0.999,38.1,0.84,,
+Europe,Southern Europe,Portugal,2007,,0.995,36.8,0.84,,
+Europe,Southern Europe,Portugal,2008,,0.992,36.6,0.839,59.82487,59.82487
+Europe,Southern Europe,Portugal,2009,489.0,0.993,34.9,0.84,67.17749,67.17749
+Europe,Southern Europe,Portugal,2010,,0.995,35.8,0.843,65.19163,65.19163
+Europe,Southern Europe,Portugal,2011,,0.992,36.3,0.832,64.1166,64.1166
+Europe,Southern Europe,Portugal,2012,488.0,0.991,36.0,0.832,49.883549,49.883549
+Europe,Southern Europe,Portugal,2013,,0.991,36.2,0.831,52.97459,52.97459
+Europe,Southern Europe,Portugal,2014,,0.991,35.6,0.831,56.74063,56.74063
+Europe,Southern Europe,Portugal,2015,498.0,0.989,35.5,0.831,58.12692,58.12692
+Europe,Southern Europe,Portugal,2016,,0.99,35.2,0.83,61.389591,61.389591
+Europe,Southern Europe,Portugal,2017,,0.991,33.8,0.847,59.65606,59.65606
+Europe,Southern Europe,Portugal,2018,492.0,0.995,33.5,0.849,59.39544,59.39544
+Europe,Southern Europe,Portugal,2019,,0.994,32.8,0.821,60.01863,60.01863
+Europe,Southern Europe,Portugal,2020,,0.995,34.7,0.807,60.670971,60.670971
+Europe,Southern Europe,Portugal,2021,,0.997,34.6,0.811,,
+Europe,Southern Europe,Portugal,2022,477.0,1.002,,0.758,,
+Europe,Eastern Europe,Slovak Republic,2000,,0.987,,0.746,89.44973,89.44973
+Europe,Eastern Europe,Slovak Republic,2001,,0.989,,0.746,,
+Europe,Eastern Europe,Slovak Republic,2002,,0.987,,0.747,,
+Europe,Eastern Europe,Slovak Republic,2003,469.0,0.988,,0.749,,
+Europe,Eastern Europe,Slovak Republic,2004,,0.987,27.1,0.748,,
+Europe,Eastern Europe,Slovak Republic,2005,,0.988,29.3,0.748,75.94156,75.94156
+Europe,Eastern Europe,Slovak Republic,2006,466.0,0.993,25.8,0.726,,
+Europe,Eastern Europe,Slovak Republic,2007,,0.994,24.7,0.73,,
+Europe,Eastern Europe,Slovak Republic,2008,,0.998,26.0,0.735,70.07291,70.07291
+Europe,Eastern Europe,Slovak Republic,2009,477.0,0.996,27.2,0.737,66.59057,66.59057
+Europe,Eastern Europe,Slovak Republic,2010,,0.995,27.3,0.752,68.81232,68.81232
+Europe,Eastern Europe,Slovak Republic,2011,,0.993,26.5,0.754,75.45825,75.45825
+Europe,Eastern Europe,Slovak Republic,2012,463.0,0.992,26.1,0.74,72.46904,72.46904
+Europe,Eastern Europe,Slovak Republic,2013,,0.991,28.1,0.73,75.50173,75.50173
+Europe,Eastern Europe,Slovak Republic,2014,,0.993,26.1,0.732,75.53856,75.53856
+Europe,Eastern Europe,Slovak Republic,2015,453.0,0.995,26.5,0.733,78.7356,78.7356
+Europe,Eastern Europe,Slovak Republic,2016,,0.993,25.2,0.732,69.502373,69.502373
+Europe,Eastern Europe,Slovak Republic,2017,,0.996,23.2,0.726,68.20238,68.20238
+Europe,Eastern Europe,Slovak Republic,2018,458.0,0.997,25.0,0.706,68.20345,68.20345
+Europe,Eastern Europe,Slovak Republic,2019,,0.995,23.2,0.742,70.19748,70.19748
+Europe,Eastern Europe,Slovak Republic,2020,,0.996,24.2,0.76,73.782372,73.782372
+Europe,Eastern Europe,Slovak Republic,2021,,1.003,24.1,0.758,,
+Europe,Eastern Europe,Slovak Republic,2022,447.0,1.003,,0.762,,
+Europe,Southern Europe,Slovenia,2000,,0.991,,0.754,,
+Europe,Southern Europe,Slovenia,2001,,0.99,,0.746,,
+Europe,Southern Europe,Slovenia,2002,,0.993,,0.763,,
+Europe,Southern Europe,Slovenia,2003,,0.991,,0.754,,
+Europe,Southern Europe,Slovenia,2004,,0.992,24.8,0.736,,
+Europe,Southern Europe,Slovenia,2005,,1.002,24.6,0.738,74.37175,74.37175
+Europe,Southern Europe,Slovenia,2006,494.0,1.009,24.4,0.737,,
+Europe,Southern Europe,Slovenia,2007,,1.01,24.4,0.741,,
+Europe,Southern Europe,Slovenia,2008,,1.006,23.7,0.741,82.06051,82.06051
+Europe,Southern Europe,Slovenia,2009,483.0,1.005,24.8,0.795,82.67631,82.67631
+Europe,Southern Europe,Slovenia,2010,,1.005,24.9,0.795,82.0846,82.0846
+Europe,Southern Europe,Slovenia,2011,,1.009,24.9,0.789,79.84978,79.84978
+Europe,Southern Europe,Slovenia,2012,481.0,1.005,25.6,0.768,83.263496,83.263496
+Europe,Southern Europe,Slovenia,2013,,0.996,26.2,0.788,83.81774,83.81774
+Europe,Southern Europe,Slovenia,2014,,1.0,25.7,0.798,82.59159,82.59159
+Europe,Southern Europe,Slovenia,2015,505.0,1.001,25.4,0.808,83.32673,83.32673
+Europe,Southern Europe,Slovenia,2016,,1.001,24.8,0.796,81.623039,81.623039
+Europe,Southern Europe,Slovenia,2017,,1.001,24.2,0.773,82.55323,82.55323
+Europe,Southern Europe,Slovenia,2018,495.0,1.002,24.6,0.758,84.42868,84.42868
+Europe,Southern Europe,Slovenia,2019,,1.003,24.4,0.744,83.76446,83.76446
+Europe,Southern Europe,Slovenia,2020,,1.002,24.0,0.668,80.928543,80.928543
+Europe,Southern Europe,Slovenia,2021,,1.004,24.3,0.624,,
+Europe,Southern Europe,Slovenia,2022,469.0,1.001,,0.73,,
+Europe,Southern Europe,Spain,2000,493.0,0.968,34.1,0.812,74.41468,74.41468
+Europe,Southern Europe,Spain,2001,,0.966,,0.81,,
+Europe,Southern Europe,Spain,2002,,0.971,,0.81,,
+Europe,Southern Europe,Spain,2003,481.0,0.971,31.8,0.792,,
+Europe,Southern Europe,Spain,2004,,0.975,33.3,0.803,,
+Europe,Southern Europe,Spain,2005,,0.975,32.4,0.805,77.90057,77.90057
+Europe,Southern Europe,Spain,2006,461.0,0.978,33.5,0.805,,
+Europe,Southern Europe,Spain,2007,,0.979,34.1,0.804,,
+Europe,Southern Europe,Spain,2008,,0.979,34.2,0.817,78.8644,78.8644
+Europe,Southern Europe,Spain,2009,481.0,0.982,34.9,0.82,79.08784,79.08784
+Europe,Southern Europe,Spain,2010,,0.981,35.2,0.822,78.22018,78.22018
+Europe,Southern Europe,Spain,2011,,0.981,35.7,0.822,77.46873,77.46873
+Europe,Southern Europe,Spain,2012,488.0,0.981,35.4,0.805,71.932587,71.932587
+Europe,Southern Europe,Spain,2013,,0.981,36.2,0.776,68.26564,68.26564
+Europe,Southern Europe,Spain,2014,,0.981,36.1,0.776,67.48718,67.48718
+Europe,Southern Europe,Spain,2015,496.0,0.982,36.2,0.762,66.39655,66.39655
+Europe,Southern Europe,Spain,2016,,0.987,35.8,0.767,65.585213,65.585213
+Europe,Southern Europe,Spain,2017,,0.987,34.7,0.756,66.25883,66.25883
+Europe,Southern Europe,Spain,2018,,0.988,34.7,0.776,64.69379,64.69379
+Europe,Southern Europe,Spain,2019,,0.988,34.3,0.802,65.15335,65.15335
+Europe,Southern Europe,Spain,2020,,0.992,34.9,0.788,65.806381,65.806381
+Europe,Southern Europe,Spain,2021,,0.992,33.9,0.778,,
+Europe,Southern Europe,Spain,2022,474.0,0.992,,0.785,,
+Europe,Northern Europe,Sweden,2000,516.0,0.99,27.0,0.877,88.87234,88.87234
+Europe,Northern Europe,Sweden,2001,,0.99,26.5,0.877,,
+Europe,Northern Europe,Sweden,2002,,0.99,26.2,0.876,,
+Europe,Northern Europe,Sweden,2003,514.0,0.991,25.3,0.874,,
+Europe,Northern Europe,Sweden,2004,,0.996,26.1,0.874,,
+Europe,Northern Europe,Sweden,2005,,0.991,26.8,0.874,85.19179,85.19179
+Europe,Northern Europe,Sweden,2006,507.0,0.993,26.4,0.877,,
+Europe,Northern Europe,Sweden,2007,,0.993,27.1,0.881,,
+Europe,Northern Europe,Sweden,2008,,0.991,28.1,0.881,85.64133,85.64133
+Europe,Northern Europe,Sweden,2009,497.0,0.99,27.3,0.881,86.23553,86.23553
+Europe,Northern Europe,Sweden,2010,,0.991,27.7,0.882,87.04826,87.04826
+Europe,Northern Europe,Sweden,2011,,0.992,27.6,0.884,85.91282,85.91282
+Europe,Northern Europe,Sweden,2012,483.0,0.992,27.6,0.887,85.63662,85.63662
+Europe,Northern Europe,Sweden,2013,,0.987,28.8,0.887,85.81184,85.81184
+Europe,Northern Europe,Sweden,2014,,0.988,28.4,0.886,85.24149,85.24149
+Europe,Northern Europe,Sweden,2015,500.0,0.986,29.2,0.883,84.73987,84.73987
+Europe,Northern Europe,Sweden,2016,,0.985,29.6,0.884,84.160789,84.160789
+Europe,Northern Europe,Sweden,2017,,0.981,28.8,0.884,84.00671,84.00671
+Europe,Northern Europe,Sweden,2018,506.0,0.982,30.0,0.878,83.86531,83.86531
+Europe,Northern Europe,Sweden,2019,,0.99,29.3,0.871,83.40256,83.40256
+Europe,Northern Europe,Sweden,2020,,0.989,28.9,0.87,84.121521,84.121521
+Europe,Northern Europe,Sweden,2021,,0.987,29.8,0.869,,
+Europe,Northern Europe,Sweden,2022,487.0,0.989,,0.864,,
+Europe,Western Europe,Switzerland,2000,494.0,0.946,33.4,0.838,,
+Europe,Western Europe,Switzerland,2001,,0.947,,0.838,,
+Europe,Western Europe,Switzerland,2002,,0.945,31.7,0.839,,
+Europe,Western Europe,Switzerland,2003,499.0,0.948,,0.843,,
+Europe,Western Europe,Switzerland,2004,,0.951,31.6,0.843,,
+Europe,Western Europe,Switzerland,2005,,0.955,,0.843,,
+Europe,Western Europe,Switzerland,2006,499.0,0.957,33.9,0.843,,
+Europe,Western Europe,Switzerland,2007,,0.957,34.3,0.845,,
+Europe,Western Europe,Switzerland,2008,,0.956,33.8,0.852,,
+Europe,Western Europe,Switzerland,2009,501.0,0.96,32.9,0.852,,
+Europe,Western Europe,Switzerland,2010,,0.964,32.6,0.851,,
+Europe,Western Europe,Switzerland,2011,,0.964,31.7,0.853,,
+Europe,Western Europe,Switzerland,2012,509.0,0.964,31.6,0.861,,
+Europe,Western Europe,Switzerland,2013,,0.966,32.5,0.861,,
+Europe,Western Europe,Switzerland,2014,,0.966,32.5,0.861,,
+Europe,Western Europe,Switzerland,2015,492.0,0.969,32.3,0.86,,
+Europe,Western Europe,Switzerland,2016,,0.965,33.0,0.858,,
+Europe,Western Europe,Switzerland,2017,,0.968,32.7,0.867,,
+Europe,Western Europe,Switzerland,2018,484.0,0.967,33.1,0.867,,
+Europe,Western Europe,Switzerland,2019,,0.969,34.0,0.866,,
+Europe,Western Europe,Switzerland,2020,,0.97,33.7,0.856,,
+Europe,Western Europe,Switzerland,2021,,0.976,,0.851,,
+Europe,Western Europe,Switzerland,2022,483.0,0.98,,0.851,,
+Asia,Western Asia,Turkey,2000,,0.842,,0.434,,
+Asia,Western Asia,Turkey,2001,,0.847,,0.435,,
+Asia,Western Asia,Turkey,2002,,0.852,,0.491,,
+Asia,Western Asia,Turkey,2003,441.0,0.853,,0.504,,
+Asia,Western Asia,Turkey,2004,,0.853,,0.511,,
+Asia,Western Asia,Turkey,2005,,0.859,,0.494,,
+Asia,Western Asia,Turkey,2006,447.0,0.863,,0.494,,
+Asia,Western Asia,Turkey,2007,,0.866,,0.471,,
+Asia,Western Asia,Turkey,2008,,0.878,,0.416,,
+Asia,Western Asia,Turkey,2009,464.0,0.885,,0.413,,
+Asia,Western Asia,Turkey,2010,,0.905,,0.372,,
+Asia,Western Asia,Turkey,2011,,0.91,,0.357,76.90319,76.90319
+Asia,Western Asia,Turkey,2012,475.0,0.916,,0.35,74.524307,74.524307
+Asia,Western Asia,Turkey,2013,,0.92,,0.297,73.3888,73.3888
+Asia,Western Asia,Turkey,2014,,0.919,,0.259,73.19095,73.19095
+Asia,Western Asia,Turkey,2015,428.0,0.923,,0.233,73.4147,73.4147
+Asia,Western Asia,Turkey,2016,,0.933,,0.145,73.831291,73.831291
+Asia,Western Asia,Turkey,2017,,0.936,43.5,0.104,79.51687,79.51687
+Asia,Western Asia,Turkey,2018,466.0,0.937,42.4,0.109,72.02518,72.02518
+Asia,Western Asia,Turkey,2019,,0.939,43.8,0.113,68.54684,68.54684
+Asia,Western Asia,Turkey,2020,,0.938,43.0,0.117,68.80835,68.80835
+Asia,Western Asia,Turkey,2021,,0.94,44.4,0.116,,
+Asia,Western Asia,Turkey,2022,456.0,0.942,,0.114,,
+Europe,Northern Europe,United Kingdom,2000,,0.983,38.8,0.787,,
+Europe,Northern Europe,United Kingdom,2001,,0.984,37.1,0.794,,
+Europe,Northern Europe,United Kingdom,2002,,0.976,35.1,0.801,,
+Europe,Northern Europe,United Kingdom,2003,,0.976,34.9,0.801,,
+Europe,Northern Europe,United Kingdom,2004,,0.976,34.8,0.801,,
+Europe,Northern Europe,United Kingdom,2005,,0.963,35.5,0.804,,
+Europe,Northern Europe,United Kingdom,2006,495.0,0.965,35.9,0.805,,
+Europe,Northern Europe,United Kingdom,2007,,0.965,34.4,0.805,,
+Europe,Northern Europe,United Kingdom,2008,,0.965,35.4,0.805,,
+Europe,Northern Europe,United Kingdom,2009,494.0,0.966,35.1,0.805,,
+Europe,Northern Europe,United Kingdom,2010,,0.965,33.7,0.803,,
+Europe,Northern Europe,United Kingdom,2011,,0.966,33.2,0.803,,
+Europe,Northern Europe,United Kingdom,2012,499.0,0.966,33.1,0.804,54.861919,54.861919
+Europe,Northern Europe,United Kingdom,2013,,0.967,32.7,0.799,32.72168,32.72168
+Europe,Northern Europe,United Kingdom,2014,,0.969,33.1,0.8,26.82421,26.82421
+Europe,Northern Europe,United Kingdom,2015,498.0,0.969,33.3,0.791,24.9912,24.9912
+Europe,Northern Europe,United Kingdom,2016,,0.97,33.1,0.788,27.58112,27.58112
+Europe,Northern Europe,United Kingdom,2017,,0.971,32.6,0.804,25.28605,25.28605
+Europe,Northern Europe,United Kingdom,2018,504.0,0.973,33.7,0.809,24.57307,24.57307
+Europe,Northern Europe,United Kingdom,2019,,0.976,32.8,0.787,23.69618,23.69618
+Europe,Northern Europe,United Kingdom,2020,,0.979,32.6,0.8,24.665939,24.665939
+Europe,Northern Europe,United Kingdom,2021,,0.979,32.4,0.782,,
+Europe,Northern Europe,United Kingdom,2022,494.0,0.978,,0.766,,
+Americas,Northern America,United States,2000,504.0,0.988,40.1,0.807,43.74466,43.74466
+Americas,Northern America,United States,2001,,0.989,40.6,0.761,,
+Americas,Northern America,United States,2002,,0.989,40.4,0.765,,
+Americas,Northern America,United States,2003,495.0,0.99,40.8,0.795,,
+Americas,Northern America,United States,2004,,0.989,40.3,0.799,,
+Americas,Northern America,United States,2005,,0.99,41.0,0.801,41.96656,41.96656
+Americas,Northern America,United States,2006,,0.99,41.4,0.807,,
+Americas,Northern America,United States,2007,,0.991,40.8,0.841,,
+Americas,Northern America,United States,2008,,0.991,40.8,0.842,41.32191,41.32191
+Americas,Northern America,United States,2009,500.0,0.992,40.6,0.85,40.64556,40.64556
+Americas,Northern America,United States,2010,,0.992,40.0,0.85,39.98513,39.98513
+Americas,Northern America,United States,2011,,0.992,40.9,0.848,39.0803,39.0803
+Americas,Northern America,United States,2012,498.0,0.992,40.9,0.847,37.802078,37.802078
+Americas,Northern America,United States,2013,,0.993,40.6,0.85,36.32563,36.32563
+Americas,Northern America,United States,2014,,0.995,41.5,0.847,34.74318,34.74318
+Americas,Northern America,United States,2015,497.0,0.996,41.2,0.848,35.20469,35.20469
+Americas,Northern America,United States,2016,,0.996,41.1,0.832,35.03867,35.03867
+Americas,Northern America,United States,2017,,0.997,41.2,0.745,35.1278,35.1278
+Americas,Northern America,United States,2018,505.0,0.999,41.4,0.742,35.64267,35.64267
+Americas,Northern America,United States,2019,,1.001,41.5,0.735,35.68111,35.68111
+Americas,Northern America,United States,2020,,1.003,39.7,0.725,37.532001,37.532001
+Americas,Northern America,United States,2021,,1.011,39.7,0.752,,
+Americas,Northern America,United States,2022,504.0,1.012,41.3,0.763,,

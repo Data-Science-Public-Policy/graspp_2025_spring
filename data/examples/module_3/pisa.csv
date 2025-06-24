@@ -1,0 +1,39 @@
+,country,2000,2003,2006,2009,2012,2015,2018,2022,region,subregion
+0,Australia,528.0,525.0,513.0,515.0,512.0,503.0,503.0,498.0,Oceania,Australia and New Zealand
+1,Austria,492.0,491.0,490.0,470.0,490.0,485.0,484.0,480.0,Europe,Western Europe
+2,Belgium,507.0,507.0,501.0,506.0,509.0,499.0,493.0,479.0,Europe,Western Europe
+3,Canada,534.0,528.0,527.0,524.0,523.0,527.0,520.0,507.0,Americas,Northern America
+4,Chile,410.0,,442.0,449.0,441.0,459.0,452.0,448.0,Americas,South America
+5,Colombia,,,385.0,413.0,403.0,425.0,412.0,409.0,Americas,South America
+6,Costa Rica,,,,,441.0,427.0,426.0,415.0,Americas,Central America
+7,Czech Republic,492.0,489.0,483.0,478.0,493.0,487.0,490.0,489.0,Europe,Eastern Europe
+8,Denmark,497.0,492.0,494.0,495.0,496.0,500.0,501.0,489.0,Europe,Northern Europe
+9,Estonia,,,501.0,501.0,516.0,519.0,523.0,511.0,Europe,Northern Europe
+10,Finland,546.0,543.0,547.0,536.0,524.0,526.0,520.0,490.0,Europe,Northern Europe
+11,France,505.0,496.0,488.0,496.0,505.0,499.0,493.0,474.0,Europe,Western Europe
+12,Germany,484.0,491.0,495.0,497.0,508.0,509.0,498.0,480.0,Europe,Western Europe
+13,Greece,474.0,472.0,460.0,483.0,477.0,467.0,457.0,438.0,Europe,Southern Europe
+14,Hungary,480.0,482.0,482.0,494.0,488.0,470.0,476.0,473.0,Europe,Eastern Europe
+15,Iceland,507.0,492.0,484.0,500.0,483.0,482.0,474.0,436.0,Europe,Northern Europe
+16,Ireland,527.0,515.0,517.0,496.0,523.0,521.0,518.0,516.0,Europe,Northern Europe
+17,Israel,452.0,,439.0,474.0,486.0,479.0,470.0,474.0,Asia,Western Asia
+18,Italy,487.0,476.0,469.0,486.0,490.0,485.0,476.0,482.0,Europe,Southern Europe
+19,Japan,522.0,498.0,498.0,520.0,538.0,516.0,504.0,516.0,Asia,Eastern Asia
+20,"Korea, Republic of",525.0,534.0,556.0,539.0,536.0,517.0,514.0,515.0,Asia,Eastern Asia
+21,Latvia,458.0,491.0,479.0,484.0,489.0,488.0,479.0,475.0,Europe,Northern Europe
+22,Lithuania,,,470.0,468.0,477.0,472.0,476.0,472.0,Europe,Northern Europe
+23,Luxembourg,441.0,479.0,479.0,472.0,488.0,481.0,470.0,,Europe,Western Europe
+24,Mexico,422.0,400.0,410.0,425.0,424.0,423.0,420.0,415.0,Americas,Central America
+25,Netherlands,,513.0,507.0,508.0,511.0,503.0,485.0,459.0,Europe,Western Europe
+26,New Zealand,529.0,522.0,521.0,521.0,512.0,509.0,506.0,501.0,Oceania,Australia and New Zealand
+27,Norway,505.0,500.0,484.0,503.0,504.0,513.0,499.0,477.0,Europe,Northern Europe
+28,Poland,479.0,497.0,508.0,500.0,518.0,506.0,512.0,489.0,Europe,Eastern Europe
+29,Portugal,470.0,478.0,472.0,489.0,488.0,498.0,492.0,477.0,Europe,Southern Europe
+30,Slovak Republic,,469.0,466.0,477.0,463.0,453.0,458.0,447.0,Europe,Eastern Europe
+31,Slovenia,,,494.0,483.0,481.0,505.0,495.0,469.0,Europe,Southern Europe
+32,Spain,493.0,481.0,461.0,481.0,488.0,496.0,,474.0,Europe,Southern Europe
+33,Sweden,516.0,514.0,507.0,497.0,483.0,500.0,506.0,487.0,Europe,Northern Europe
+34,Switzerland,494.0,499.0,499.0,501.0,509.0,492.0,484.0,483.0,Europe,Western Europe
+35,Turkey,,441.0,447.0,464.0,475.0,428.0,466.0,456.0,Asia,Western Asia
+36,United Kingdom,,,495.0,494.0,499.0,498.0,504.0,494.0,Europe,Northern Europe
+37,United States,504.0,495.0,,500.0,498.0,497.0,505.0,504.0,Americas,Northern America
