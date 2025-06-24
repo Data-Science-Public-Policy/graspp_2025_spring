@@ -8,6 +8,7 @@ Carola Conces Binder, “Political Pressure on Central Banks,” Journal of Mone
 After downloading EIU country reports from proquest, they are checked for the certain keywords and categorized as follows:
 
 Category 2 - when the central bank succumbs to pressure to modify monetary policy:
+            
             "under pressure", "print money", "money printing", "monetize", "succumb",
             "government control", "forced to", "pressure to lower rates"
 
@@ -21,10 +22,12 @@ Category 1 - when the central bank resists pressure to modify monetary policy:
 Similar to checking for pressure, reports are checked for centrain keywords and classified as follows:
 
 legal_amendment - when threats consist of modifying central bank law to decrease independence:
+            
             "legal independence", "revise central bank law", "amend mandate",
             "revoke independence", "constitutional change", "change in mandate"
 
 leader_change - when threats consist of replacing the central bank governor
+            
             "replace governor", "removed from office", "new central bank head",
             "dismissal", "reshuffle", "appointed", "sacked", "fired"
 
