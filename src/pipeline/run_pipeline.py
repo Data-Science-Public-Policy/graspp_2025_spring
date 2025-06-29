@@ -1,5 +1,5 @@
 # run_analysis.py
-
+import os
 from src.data.download_worldbank import DownloadWorldBank
 from src.features.generate_features import GenerateFeatures
 from src.viz.plot_basic import PlotBasic  # Import the visualization class
@@ -47,6 +47,7 @@ class RunPipeline:
         self.feature_data = transform_tool.transform(input_df)
         if save_features:
             output_path = "data/features/wb_feat.csv"
+            os.makedirs("data/features/", exist_ok = True)
             self.feature_data.to_csv(output_path)
             print(f'Saved features here: {output_path}')
         return self.feature_data
@@ -88,7 +89,7 @@ class RunPipeline:
         if self.raw_data is not None:
             self.transform(input_df=self.raw_data)
             if self.feature_data is not None:
-                print(self.feature_data.columns)
+                #print(self.feature_data.columns)
                 self.visualize(self.feature_data)
             else:
                 print("Feature generation failed, skipping visualization.")
