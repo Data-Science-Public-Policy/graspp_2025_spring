@@ -1,0 +1,1568 @@
+[
+  {
+    "country": "India",
+    "date": "2016-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_8.txt"
+  },
+  {
+    "country": "China",
+    "date": "2016-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_8.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2016-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_8.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2016-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_8.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2021-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2021-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "France",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Germany",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Mexico",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Thailand",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "South Korea",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2021-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "China",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "South Korea",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Indonesia",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2020-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2020-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2020-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2020-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2020-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_18.txt"
+  },
+  {
+    "country": "Hungary",
+    "date": "2021-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2021-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "India",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "France",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "China",
+    "date": "2021-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Hungary",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "France",
+    "date": "2021-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Switzerland",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "India",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "France",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_19.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2024-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2024-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Hungary",
+    "date": "2024-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "France",
+    "date": "2024-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2024-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Hungary",
+    "date": "2024-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2024-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Egypt",
+    "date": "2024-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2024-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2024-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Egypt",
+    "date": "2024-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2024-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2024-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2023-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2023-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Egypt",
+    "date": "2023-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2023-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2023-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2023-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Egypt",
+    "date": "2023-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2023-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2023-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_22.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2024-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "China",
+    "date": "2024-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2024-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2024-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2024-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2024-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_23.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2023-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2023-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2023-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2023-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Mexico",
+    "date": "2023-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2023-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2023-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2023-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2023-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2023-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2022-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2022-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Indonesia",
+    "date": "2022-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2022-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2022-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2022-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Mexico",
+    "date": "2022-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "South Korea",
+    "date": "2022-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "China",
+    "date": "2022-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2022-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2022-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2022-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Hungary",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Sweden",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "Greece",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "France",
+    "date": "2022-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_21.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2022-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2022-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2022-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2022-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2022-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "China",
+    "date": "2022-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2022-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2022-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "China",
+    "date": "2022-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2022-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2022-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2022-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2022-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2021-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2021-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2021-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_20.txt"
+  },
+  {
+    "country": "China",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2020-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Greece",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Malaysia",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Greece",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2020-07-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Libya",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_17.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2020-06-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Switzerland",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Finland",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "New Zealand",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "China",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Indonesia",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "South Korea",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-05-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2020-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-04-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2020-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-03-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2020-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-02-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Norway",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "South Korea",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Malaysia",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_16.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Lebanon",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "India",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Greece",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Malaysia",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "Norway",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_14.txt"
+  },
+  {
+    "country": "France",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "India",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "China",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2020-01-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Spain",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Taiwan",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Turkey",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "India",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Japan",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "France",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Bulgaria",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "United Kingdom",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Saudi Arabia",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Australia",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "China",
+    "date": "2019-12-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "India",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Hong Kong",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Brazil",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2019-11-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2019-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "India",
+    "date": "2019-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Russia",
+    "date": "2019-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Iran",
+    "date": "2019-10-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "South Africa",
+    "date": "2019-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Canada",
+    "date": "2019-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "India",
+    "date": "2019-09-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Pakistan",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  },
+  {
+    "country": "Poland",
+    "date": "2019-08-01T00:00:00",
+    "reason": "No relevant keywords found",
+    "source_file": "eiu_country_reports_15.txt"
+  }
+]
