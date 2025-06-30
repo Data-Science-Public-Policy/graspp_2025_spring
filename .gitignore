@@ -3,6 +3,8 @@ data/features
 data/intermediate
 data/raw
 data/clean
+notebooks/module_4/week_12/data
+notebooks/module_4/week_12/reports
 ../../../
 __pycache__/
 *.py[cod]
